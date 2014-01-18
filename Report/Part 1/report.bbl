@@ -1,0 +1,43 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bhattacharya(2001)]{Bhattacharya}
+Tanmoy Bhattacharya.
+\newblock Bengali.
+\newblock In Jane Garry and Carl Rubino, editors, \emph{Facts About the World's
+  Languages: An Encyclopedia of the World's Major Languages: Past and Present}.
+  H.W. Wilson Press, New York/Dublin, 2001.
+
+\bibitem[Chakroborty(2003)]{chakroborty2003uchchotoro}
+Bamondeb Chakroborty.
+\newblock Uchchotoro bangla byakaron.
+\newblock \emph{Akshay Malancha}, 2003.
+
+\bibitem[Dasgupta(2003)]{Dasgupta-2003}
+Probal Dasgupta.
+\newblock Bangla.
+\newblock In George Cardona and Dhanesh Jain, editors, \emph{The Indo-Aryan
+  Languages}, pages 351--390. Routledge, London, 2003.
+
+\bibitem[Ghosh et~al.(2009)Ghosh, Das, Bhaskar, and
+  Bandyopadhyay]{ghosh2009dependency}
+Aniruddha Ghosh, A~Das, P~Bhaskar, and Sivaji Bandyopadhyay.
+\newblock Dependency parser for bengali: the ju system at icon 2009.
+\newblock \emph{NLP Tool Contest ICON}, 2009.
+
+\bibitem[Lewis(2013)]{ethnologue}
+M.~Paul Lewis.
+\newblock Ethnologue: Languages of the world, 2013.
+\newblock URL \url{http://www.ethnologue.com/}.
+
+\bibitem[Saha et~al.(2004)Saha, Saha, and Debnath]{saha2004computer}
+Goutam~Kumar Saha, Amiya~Baran Saha, and Sudipto Debnath.
+\newblock Computer assisted bangla words pos tagging.
+\newblock In \emph{Proceedings of the International Symposium on Machine
+  Translation NLP and TSS (iTRANS)}, 2004.
+
+\end{thebibliography}
