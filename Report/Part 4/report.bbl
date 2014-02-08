@@ -1,0 +1,125 @@
+\begin{thebibliography}{20}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abhilash and Mannem(2010)]{bidir_parser}
+A~Abhilash and Prashant Mannem.
+\newblock Bi directional dependency parser for indian languages.
+\newblock In \emph{Proceedings of ICON 2010 tools contest on Indian Language
+  Dependency Parsing}, Kharagpur, India, 2010.
+
+\bibitem[Ambati et~al.(2009)Ambati, Gadde, and K.]{ambati_09}
+B~R Ambati, P.~Gadde, and Jindal K.
+\newblock Experiments in indian language dependency parsing.
+\newblock In \emph{Proceedings of ICON 2009 tools contest on Indian Language
+  Dependency Parsing}, Hyderabad, India, 2009.
+
+\bibitem[Attardi et~al.(2010)Attardi, Rossi, and Simi]{attardi_10}
+G~Attardi, S.D. Rossi, and M~Simi.
+\newblock Dependency parsing of indian languages with desr.
+\newblock In \emph{Proceedings of ICON 2010 tools contest on Indian Language
+  Dependency Parsing}, Kharagpur, India, 2010.
+
+\bibitem[Begum et~al.(2010)Begum, Husain, Dhwaj, Sharma, L., and
+  R.]{Begum-2008}
+R~Begum, S~Husain, A~Dhwaj, D.~M. Sharma, Bai L., and Sangal R.
+\newblock Dependency annotation scheme for indian languages.
+\newblock In \emph{Proceedings of the third international joint conference on
+  Natural Language Processing}, Hyderabad, India, 2010.
+
+\bibitem[Bharati et~al.(1995)Bharati, Chitanya, and Sangal]{Bharati}
+A~Bharati, V~Chitanya, and R.~Sangal.
+\newblock Natural language processing: A panninian perspective.
+\newblock Prentice-Hall of India, New Delhi, 1995.
+
+\bibitem[Bharati et~al.(2009)Bharati, Sharma, Husain, L., Begam, and
+  R.]{Bharati-2009}
+A~Bharati, M.~Sharma, S.~Husain, Bai L., R.~Begam, and Sangal R.
+\newblock Anncora: Treebanks for indian languages, guidelines for annotating
+  hindi treebank.
+\newblock 2009.
+
+\bibitem[Bhattacharya(2001)]{Bhattacharya}
+Tanmoy Bhattacharya.
+\newblock Bengali.
+\newblock In Jane Garry and Carl Rubino, editors, \emph{Facts About the World's
+  Languages: An Encyclopedia of the World's Major Languages: Past and Present}.
+  H.W. Wilson Press, New York/Dublin, 2001.
+
+\bibitem[Chakroborty(2003)]{chakroborty2003uchchotoro}
+Bamondeb Chakroborty.
+\newblock Uchchotoro bangla byakaron.
+\newblock \emph{Akshay Malancha}, 2003.
+
+\bibitem[Dasgupta(2003)]{Dasgupta-2003}
+Probal Dasgupta.
+\newblock Bangla.
+\newblock In George Cardona and Dhanesh Jain, editors, \emph{The Indo-Aryan
+  Languages}, pages 351--390. Routledge, London, 2003.
+
+\bibitem[De et~al.(2009)De, Dhar, Bhaskar, and Garain]{De_Dep_ben}
+S~De, A~Dhar, P~Bhaskar, and U~Garain.
+\newblock Structure simplification and demand satisfaction.
+\newblock In \emph{Proceedings of ICON 2009 tools contest on Indian Language
+  Dependency Parsing}, Hyderabad, India, 2009.
+
+\bibitem[Ghosh et~al.(2009)Ghosh, Das, Bhaskar, and
+  Bandyopadhyay]{ghosh2009dependency}
+Aniruddha Ghosh, A~Das, P~Bhaskar, and Sivaji Bandyopadhyay.
+\newblock Dependency parser for bengali: the ju system at icon 2009.
+\newblock \emph{NLP Tool Contest ICON}, 2009.
+
+\bibitem[Hussain(2009)]{husain_09}
+S.~Hussain.
+\newblock Dependency parser for indian languages.
+\newblock In \emph{Proceedings of ICON 2009 tools contest on Indian Language
+  Dependency Parsing}, Hyderabad, India, 2009.
+
+\bibitem[Hussain et~al.(2010)Hussain, Mannem, Ambati, and Gadde]{husain_10}
+S~Hussain, Prashant Mannem, Bharat Ambati, and Phani Gadde.
+\newblock The icon 2010 tools contest on indian language dependency parsing.
+\newblock In \emph{Proceedings of ICON 2010 tools contest on Indian Language
+  Dependency Parsing}, Kharagpur, India, 2010.
+
+\bibitem[Kiparsky and Staal(1969)]{Kiparsky}
+P.~Kiparsky and J.~F. Staal.
+\newblock Synctactic and relations in panini.
+\newblock In \emph{Foundations of language 5}, 1969.
+
+\bibitem[Kosaraju et~al.(2010)Kosaraju, Kesidi, V.B.R., and P.]{kosaraju_10}
+P~Kosaraju, S.R. Kesidi, Ainavolu V.B.R., and Kukkadapu P.
+\newblock Experiments on indian language dependency parsing.
+\newblock In \emph{Proceedings of ICON 2010 tools contest on Indian Language
+  Dependency Parsing}, Kharagpur, India, 2010.
+
+\bibitem[Lewis(2013)]{ethnologue}
+M.~Paul Lewis.
+\newblock Ethnologue: Languages of the world, 2013.
+\newblock URL \url{http://www.ethnologue.com/}.
+
+\bibitem[Nivre(2009)]{Nivre_parsingindian}
+Joakim Nivre.
+\newblock Parsing indian languages with maltparser, 2009.
+
+\bibitem[Nivre and Hall(2005)]{Nivre05maltparser:a}
+Joakim Nivre and Johan Hall.
+\newblock Maltparser: A language-independent system for data-driven dependency
+  parsing.
+\newblock In \emph{In Proc. of the Fourth Workshop on Treebanks and Linguistic
+  Theories}, pages 13--95, 2005.
+
+\bibitem[Saha et~al.(2004)Saha, Saha, and Debnath]{saha2004computer}
+Goutam~Kumar Saha, Amiya~Baran Saha, and Sudipto Debnath.
+\newblock Computer assisted bangla words pos tagging.
+\newblock In \emph{Proceedings of the International Symposium on Machine
+  Translation NLP and TSS (iTRANS)}, 2004.
+
+\bibitem[Shastri(1973)]{Shastri}
+C.~Shastri.
+\newblock Vyakarana chandrodaya.
+\newblock In \emph{Foundations of language 5}, 1973.
+
+\end{thebibliography}
