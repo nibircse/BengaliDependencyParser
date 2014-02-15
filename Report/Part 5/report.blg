@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: report.aux
+The style file: plainnat.bst
+Database file #1: refs.bib
+Warning--I didn't find a database entry for "("
+Warning--empty booktitle in Bharati
+Warning--empty booktitle in Bharati-2009
+You've used 20 entries,
+            2773 wiz_defined-function locations,
+            698 strings with 7739 characters,
+and the built_in function-call counts, 8748 in all, are:
+= -- 723
+> -- 539
+< -- 12
++ -- 183
+- -- 163
+* -- 630
+:= -- 1349
+add.period$ -- 61
+call.type$ -- 20
+change.case$ -- 113
+chr.to.int$ -- 20
+cite$ -- 42
+duplicate$ -- 462
+empty$ -- 780
+format.name$ -- 189
+if$ -- 1868
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 18
+newline$ -- 107
+num.names$ -- 84
+pop$ -- 301
+preamble$ -- 1
+purify$ -- 93
+quote$ -- 0
+skip$ -- 307
+stack$ -- 0
+substring$ -- 92
+swap$ -- 40
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 220
+warning$ -- 2
+while$ -- 67
+width$ -- 0
+write$ -- 258
+(There were 3 warnings)
