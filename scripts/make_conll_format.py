@@ -1,4 +1,4 @@
-with open('../Test/MS_POS_tagged_raw.txt') as file:
+with open('../Test/Third Batch/test_dataset_C.txt') as file:
 	text = file.read()
 
 lines = text.split("\n") #each line of the text

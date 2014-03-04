@@ -12,7 +12,7 @@ Tags - DTA - determiner
 3. Jekhanei tini thakun na kno -- relative clause, aamar kono jay aashe na -- I connected jay and thakun (the two verbs), David made jekhanei as child of jay
 4. bhadralok, toh age khub active chilen what is toh?
 5. rakhi na -> negation rakhi -> na
-6. shikar korte holo, verbs together linear chain shikar -> korte -> holo
+6. shikar korte holo, verbs together linear chain shikar -> korte -> holo (same for hoye gelo -- hoye -> gelo)
 7. Jethmalanir kormochari mr rcghosh k sulekha nischoyi chinto -- rc ghosh is the child of karmachari and karmachari is the child of chinto
 8. Flater dorjar samne jar naam ato bada bada kore lekha chilo take ato sohoje bhulbe kimkore ......take is the parent of chilo and bhulbe is connected to take
 9. hatat eibhabe -- two adverbs hatat -> aibhabe and then connects to the verb
@@ -29,4 +29,35 @@ Tags - DTA - determiner
 20. erA\PP ye\TO chautrisha\NUM nambara\NN Che.De\VN -- ye is a clitic and I connected to erA
 21. sAmAnya\JJ ekakhAnA\NN dokAna\NN ghara\NN -- saamnya -> ekhana -> dokan -> ghor (Nouns in sequence, form a chain)
 22 sutarA.n\CC jeThamAlAni\NP kompAnira\NP karmaprabAhe\NN thyAkAre\NP myAnasanera\NP chautrisha\NUM nambara\NN phlyATera\NN gurutba\NN kramashi\ADV be.De\VN yAbe\VF .\SEN  --CHECK THE ANNOTATION - I think what I have done is correct, but that could mean annotations before were wrong (check for sequence of nouns) (bd_27, i guess)
-23. 
+Notes on Feb 25
+23. Thackeray Mansion -- two proper nouns mansion -> thackeray
+24. aneka\JQQ pApake\NN Ami\PP prAYa\ADV meneo\VN niYeChi\VF ,\SEN kintu\CNJ sulekhA\NP ,\SEN tomAra\PP sa~Nge\PPI mukhomukhi\ADV base\VN se\DTR ….. --> kintu becomes the root - 
+25. kintu Sulekha tomar -- tomar PP is pointing to sulekha (NP) sulekha -> tomar
+26. Alapalachana karbar - two nouns Alapalachana -> karbar
+27. ei\DTA nATakera\NN kiChuTA\JQQ -- nATakera -> kiChuTA
+28. sutaran -- conjunction at the beginning -- connected to main verb
+29. chautrisha\NUM nambara\NN phlyATa\NN -- 34 is connected to nambar, nambar is root of phlyat
+30. duradRRiShTi\NN beshidUra\NN agrasara\NN hate\VN pAre\VF ni\NEG .\SEN --> 3 NN's duradRRiShTi -> beshi.. -> ag..
+31. tA.Nra\PP duradRRiShTi\NN -> duradRRiShTi -> tA.Nra
+32. erA\PP ye\TO era -> ye
+33 JE/ YE --  Karon Mr Jethmalani aamak nieji bolechen je ei barite ……….(bolechen is the parent of je and je is the parent of the verb in the second part of the sentence)
+34. Rule: When post position connect to the previous noun or pro-noun.
+35. sutarA.n\CC jeThamAlAni\NP kompAnira\NP karmaprabAhe\NN thyAkAre\NP myAnasanera\NP chautrisha\NUM nambara\NN phlyATera\NN gurutba\NN kramashi\ADV be.De\VN yAbe\VF .\SEN -> Conjunction at the begining is connected to the main verb
+36. Pronouns : tini\PP nije\PP ChA.DA\PPI --> chain of pronouns
+37. PPI - sAhAyya\NN ChA.DA\PPI -- PPI is connected to the immediate previous noun
+38. DTA - ei\DTA speshAla\JJ lAine\NN -- ei is connected to laine, ie root
+39. chautrisha\NUM nambara\NN ghara\NN hAtaChA.DA\NN haYe\VN yAbAra\NV para\PPI jeThamAlAnirA\NP tAdera\PP ei\DTA speshAla\JJ lAine\NN kI\PQ kareChena\VF tAra\PP bisheSha\JJ kho.Njakhabara\NN pAini\VNG .\SEN  -- haye is connected to karchen whoch si connected to tara which is connected to paini
+
+40. CNJ at begining :kAraNa\CNJ ,\SEN jagadIsha\NP jeThamAlAnira\NP abhidhAne\NN hAra\NN kathATA\NN nAki\SHD ekhano\PT paryyanta\PPI lekhA\VN haYa\VF ni\NEG .\SEN -- connected to main verb
+
+41.PQ (keno) - thaki -> keno -> parini kintu\CNJ Ami\PP yatai\CC natuna\JJ AkramaNera\NN janya\PPI prastuta\NN thAki\VF nA\NEG kena\PQ ,\SEN odika\PS theke\PPI sa.ngrAmera\NN kona\JJ rakama\NN prastuti\NN AmAra\PP najare\NN pa.Deni\VNG .\SEN 
+
+42. DTR (ta) - padechila -> DTR -> jayni khabaraTA\NN shune\VN sulekhAra\NP mukhe\NN ye\CNJ dushchintAra\NN ChAYA\NN pa.DeChila\VF tA\DTR abashyi\ADV AmAra\PP najara\NN e.DiYe\VN yAYani\VNG .\SEN 
+43. CND -  sImA\NN ,\SEN tumi\PP yadi\CND -- yadi is connected to previous tumi
+44. CNJ (tahole) and hence 2 verbs are connected to it -- sImA\NN ,\SEN tumi\PP yadi\CND sulekhAke\NP bidAYa\NN dite\VN rAjI\NN thAko\VF ,\SEN tAhale\CNJ thyAkAre\NP myAnasanera\NP ei\DTA Temaporari\JJ myAnejAra\NN tomAra\PP janya\PPI asAdhya\JJ sAdhana\NN karabe\VF .\SEN
+
+45.DTA and NN NN ei\DTA gharera\NN chAbiTA\NN -- In this case, I don't form a chain, because that would be wrong, here chabita is head, not sure the parser will be able to identify, also ei is connected to chabita since the root
+
+46.NO Verbs -- the last word is made as root, 1st and 2nd word connect to that eTAto\NN AmAra\PP aj~nAtabAsa\NN .\SEN 
+
+47. 
