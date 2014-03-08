@@ -1,185 +1,185 @@
-1	Ami	Ami	NON	NON	NON|NON	11	[  ]	_	_
-2	satyi	satyi	NON	NON	NON|NON	11	[  ]	_	_
-3	satyii	satyii	NON	NON	NON|NON	2	[  ]	_	_
-4	oi	oi	NON	NON	NON|NON	6	[  ]	_	_
-5	jagadIsha	jagadIsha	NON	NON	NON|NON	6	[  ]	_	_
-6	jeThamAlAni	jeThamAlAni	NON	NON	NON|NON	11	[  ]	_	_
-7	bhadralokera	bhadralokera	NON	NON	NON|NON	6	[  ]	_	_
-8	kono	kono	NON	NON	NON|NON	9	[  ]	_	_
-9	khabarA``	khabarA``	NON	NON	NON|NON	11	[  ]	_	_
-10	khabara`	khabara`	NON	NON	NON|NON	11	[  ]	_	_
-11	rAkhi	rAkhi	NON	NON	NON|NON	11	_	_	_
-12	nA	nA	NON	NON	NON|NON	11	[  ]	_	_
-13	.	.	NON	NON	NON|NON	13	_	_	_
+1	Ami	Ami	NON	PP	NON|NON	11	[  ]	_	_
+2	satyi	satyi	NON	AVB	NON|NON	11	[  ]	_	_
+3	satyii	satyii	NON	AVB	NON|NON	2	[  ]	_	_
+4	oi	oi	NON	DTA	NON|NON	6	[  ]	_	_
+5	jagadIsha	jagadIsha	NON	NP	NON|NON	6	[  ]	_	_
+6	jeThamAlAni	jeThamAlAni	NON	NP	NON|NON	11	[  ]	_	_
+7	bhadralokera	bhadralokera	NON	NN	NON|NON	6	[  ]	_	_
+8	kono	kono	NON	DTA	NON|NON	9	[  ]	_	_
+9	khabarA``	khabarA``	NON	NN	NON|NON	11	[  ]	_	_
+10	khabara`	khabara`	NON	NN	NON|NON	11	[  ]	_	_
+11	rAkhi	rAkhi	NON	VF	NON|NON	11	_	_	_
+12	nA	nA	NON	NEG	NON|NON	11	[  ]	_	_
+13	.	.	NON	SEN	NON|NON	13	_	_	_
 
 
-1	bombAi	bombAi	NON	NON	NON|NON	6	[  ]	_	_
-2	dillI	dillI	NON	NON	NON|NON	6	[  ]	_	_
-3	mAdrAja	mAdrAja	NON	NON	NON|NON	6	[  ]	_	_
-4	yekhAnei	yekhAnei	NON	NON	NON|NON	5	[  ]	_	_
-5	tini	tini	NON	NON	NON|NON	6	[  ]	_	_
-6	thAkuna	thAkuna	NON	NON	NON|NON	10	[  ]	_	_
-7	tAte	tAte	NON	NON	NON|NON	8	[  ]	_	_
-8	AmAra`	AmAra`	NON	NON	NON|NON	10	[  ]	_	_
-9	kichhu	kichhu	NON	NON	NON|NON	10	[  ]	_	_
-10	yAYa`	yAYa`	NON	NON	NON|NON	10	_	_	_
-11	Ase	Ase	NON	NON	NON|NON	10	[  ]	_	_
-12	nA	nA	NON	NON	NON|NON	10	[  ]	_	_
-13	.	.	NON	NON	NON|NON	13	_	_	_
+1	bombAi	bombAi	NON	NP	NON|NON	6	[  ]	_	_
+2	dillI	dillI	NON	NP	NON|NON	6	[  ]	_	_
+3	mAdrAja	mAdrAja	NON	NP	NON|NON	6	[  ]	_	_
+4	yekhAnei	yekhAnei	NON	PS	NON|NON	5	[  ]	_	_
+5	tini	tini	NON	PP	NON|NON	6	[  ]	_	_
+6	thAkuna	thAkuna	NON	VIS	NON|NON	10	[  ]	_	_
+7	tAte	tAte	NON	DTR	NON|NON	8	[  ]	_	_
+8	AmAra`	AmAra`	NON	PP	NON|NON	10	[  ]	_	_
+9	kichhu	kichhu	NON	JQQ	NON|NON	10	[  ]	_	_
+10	yAYa`	yAYa`	NON	VF	NON|NON	10	_	_	_
+11	Ase	Ase	NON	VF	NON|NON	10	[  ]	_	_
+12	nA	nA	NON	NEG	NON|NON	10	[  ]	_	_
+13	.	.	NON	SEN	NON|NON	13	_	_	_
 
 
-1	sulekhA	sulekhA	NON	NON	NON|NON	2	[  ]	_	_
-2	balalo	balalo	NON	NON	NON|NON	2	_	_	_
-3	ora	ora	NON	NON	NON|NON	8	[  ]	_	_
-4	chokhera	chokhera	NON	NON	NON|NON	5	[  ]	_	_
-5	maNi	maNi	NON	NON	NON|NON	6	[  ]	_	_
-6	bhAganeTira	bhAganeTira	NON	NON	NON|NON	8	[  ]	_	_
-7	kI	kI	NON	NON	NON|NON	8	[  ]	_	_
-8	halo	halo	NON	NON	NON|NON	2	[  ]	_	_
-9	?	.	NON	NON	NON|NON	9	_	_	_
+1	sulekhA	sulekhA	NON	NP	NON|NON	2	[  ]	_	_
+2	balalo	balalo	NON	VF	NON|NON	2	_	_	_
+3	ora	ora	NON	PP	NON|NON	8	[  ]	_	_
+4	chokhera	chokhera	NON	NN	NON|NON	5	[  ]	_	_
+5	maNi	maNi	NON	NN	NON|NON	6	[  ]	_	_
+6	bhAganeTira	bhAganeTira	NON	NN	NON|NON	8	[  ]	_	_
+7	kI	kI	NON	PQ	NON|NON	8	[  ]	_	_
+8	halo	halo	NON	VF	NON|NON	2	[  ]	_	_
+9	?	.	NON	SEN	NON|NON	9	_	_	_
 
 
-1	bhadraloka	bhadraloka	NON	NON	NON|NON	6	[  ]	_	_
-2	to	to	NON	NON	NON|NON	6	[  ]	_	_
-3	Age	Age	NON	NON	NON|NON	6	[  ]	_	_
-4	khuba	khuba	NON	NON	NON|NON	5	[  ]	_	_
-5	YyAkaTibha	YyAkaTibha	NON	NON	NON|NON	6	[  ]	_	_
-6	chhilena	chhilena	NON	NON	NON|NON	6	_	_	_
-7	.	.	NON	NON	NON|NON	7	_	_	_
+1	bhadraloka	bhadraloka	NON	NN	NON|NON	6	[  ]	_	_
+2	to	to	NON	TO	NON|NON	6	[  ]	_	_
+3	Age	Age	NON	PT	NON|NON	6	[  ]	_	_
+4	khuba	khuba	NON	QUA	NON|NON	5	[  ]	_	_
+5	YyAkaTibha	YyAkaTibha	NON	JJ	NON|NON	6	[  ]	_	_
+6	chhilena	chhilena	NON	VF	NON|NON	6	_	_	_
+7	.	.	NON	SEN	NON|NON	7	_	_	_
 
 
-1	AmAke	AmAke	NON	NON	NON|NON	5	[  ]	_	_
-2	ebAra	ebAra	NON	NON	NON|NON	7	[  ]	_	_
-3	satya	satya	NON	NON	NON|NON	4	[  ]	_	_
-4	kathA`	kathA`	NON	NON	NON|NON	6	[  ]	_	_
-5	sbIkAra	sbIkAra	NON	NON	NON|NON	5	_	_	_
-6	karate	karate	NON	NON	NON|NON	5	[  ]	_	_
-7	halo	halo	NON	NON	NON|NON	6	[  ]	_	_
-8	.	.	NON	NON	NON|NON	8	_	_	_
+1	AmAke	AmAke	NON	PP	NON|NON	5	[  ]	_	_
+2	ebAra	ebAra	NON	PT	NON|NON	7	[  ]	_	_
+3	satya	satya	NON	JJ	NON|NON	4	[  ]	_	_
+4	kathA`	kathA`	NON	NN	NON|NON	6	[  ]	_	_
+5	sbIkAra	sbIkAra	NON	NN	NON|NON	5	_	_	_
+6	karate	karate	NON	VF	NON|NON	5	[  ]	_	_
+7	halo	halo	NON	VF	NON|NON	6	[  ]	_	_
+8	.	.	NON	SEN	NON|NON	8	_	_	_
 
 
-1	chautrisha	chautrisha	NON	NON	NON|NON	2	[  ]	_	_
-2	nambara`	nambara`	NON	NON	NON|NON	3	[  ]	_	_
-3	phlyATa	phlyATa	NON	NON	NON|NON	7	[  ]	_	_
-4	ye`	ye`	NON	NON	NON|NON	3	[  ]	_	_
-5	Ara	Ara	NON	NON	NON|NON	7	[  ]	_	_
-6	odera	odera	NON	NON	NON|NON	7	[  ]	_	_
-7	adhikAre	adhikAre	NON	NON	NON|NON	7	_	_	_
-8	nei	nei	NON	NON	NON|NON	7	[  ]	_	_
-9	tAo`	tAo`	NON	NON	NON|NON	10	[  ]	_	_
-10	shuniYe	shuniYe	NON	NON	NON|NON	7	[  ]	_	_
-11	dilAma	dilAma	NON	NON	NON|NON	10	[  ]	_	_
-12	.	.	NON	NON	NON|NON	12	_	_	_
+1	chautrisha	chautrisha	NON	NUM	NON|NON	2	[  ]	_	_
+2	nambara`	nambara`	NON	NN	NON|NON	3	[  ]	_	_
+3	phlyATa	phlyATa	NON	NN	NON|NON	7	[  ]	_	_
+4	ye`	ye`	NON	CNJ	NON|NON	3	[  ]	_	_
+5	Ara	Ara	NON	ADV	NON|NON	7	[  ]	_	_
+6	odera	odera	NON	PP	NON|NON	7	[  ]	_	_
+7	adhikAre	adhikAre	NON	NN	NON|NON	7	_	_	_
+8	nei	nei	NON	VNG	NON|NON	7	[  ]	_	_
+9	tAo`	tAo`	NON	DTA	NON|NON	10	[  ]	_	_
+10	shuniYe	shuniYe	NON	VN	NON|NON	7	[  ]	_	_
+11	dilAma	dilAma	NON	VF	NON|NON	10	[  ]	_	_
+12	.	.	NON	SEN	NON|NON	12	_	_	_
 
 
-1	ye`	ye`	NON	NON	NON|NON	2	[  ]	_	_
-2	ghaTanAke	ghaTanAke	NON	NON	NON|NON	3	[  ]	_	_
-3	kendra	kendra	NON	NON	NON|NON	7	[  ]	_	_
-4	kare`(2)	kare`(2)	NON	NON	NON|NON	3	[  ]	_	_
-5	ei	ei	NON	NON	NON|NON	6	[  ]	_	_
-6	aghaTana	aghaTana	NON	NON	NON|NON	7	[  ]	_	_
-7	ghaTechhe	ghaTechhe	NON	NON	NON|NON	7	_	_	_
-8	sekhAne	sekhAne	NON	NON	NON|NON	9	[  ]	_	_
-9	tArao`	tArao`	NON	NON	NON|NON	13	[  ]	_	_
-10	ye`	ye`	NON	NON	NON|NON	11	[  ]	_	_
-11	sAmAnya	sAmAnya	NON	NON	NON|NON	12	[  ]	_	_
-12	bhUmikA	bhUmikA	NON	NON	NON|NON	13	[  ]	_	_
-13	chhila	chhila	NON	NON	NON|NON	18	[  ]	_	_
-14	tA`	tA`	NON	NON	NON|NON	15	[  ]	_	_
-15	sulekhA	sulekhA	NON	NON	NON|NON	18	[  ]	_	_
-16	nishchaYa	nishchaYa	NON	NON	NON|NON	18	[  ]	_	_
-17	ekhanao	ekhanao	NON	NON	NON|NON	16	[  ]	_	_
-18	jAnate`	jAnate`	NON	NON	NON|NON	18	_	_	_
-19	pAre	pAre	NON	NON	NON|NON	18	[  ]	_	_
-20	ni	ni	NON	NON	NON|NON	19	[  ]	_	_
-21	.	.	NON	NON	NON|NON	21	_	_	_
+1	ye`	ye`	NON	DTA	NON|NON	2	[  ]	_	_
+2	ghaTanAke	ghaTanAke	NON	NN	NON|NON	3	[  ]	_	_
+3	kendra	kendra	NON	NN	NON|NON	7	[  ]	_	_
+4	kare`(2)	kare`(2)	NON	PPI	NON|NON	3	[  ]	_	_
+5	ei	ei	NON	DTA	NON|NON	6	[  ]	_	_
+6	aghaTana	aghaTana	NON	NN	NON|NON	7	[  ]	_	_
+7	ghaTechhe	ghaTechhe	NON	VF	NON|NON	7	_	_	_
+8	sekhAne	sekhAne	NON	PT	NON|NON	9	[  ]	_	_
+9	tArao`	tArao`	NON	PP	NON|NON	13	[  ]	_	_
+10	ye`	ye`	NON	CNJ	NON|NON	11	[  ]	_	_
+11	sAmAnya	sAmAnya	NON	JJ	NON|NON	12	[  ]	_	_
+12	bhUmikA	bhUmikA	NON	NN	NON|NON	13	[  ]	_	_
+13	chhila	chhila	NON	VF	NON|NON	18	[  ]	_	_
+14	tA`	tA`	NON	DTR	NON|NON	15	[  ]	_	_
+15	sulekhA	sulekhA	NON	NP	NON|NON	18	[  ]	_	_
+16	nishchaYa	nishchaYa	NON	ADV	NON|NON	18	[  ]	_	_
+17	ekhanao	ekhanao	NON	ADV	NON|NON	16	[  ]	_	_
+18	jAnate`	jAnate`	NON	VN	NON|NON	18	_	_	_
+19	pAre	pAre	NON	VF	NON|NON	18	[  ]	_	_
+20	ni	ni	NON	NEG	NON|NON	19	[  ]	_	_
+21	.	.	NON	SEN	NON|NON	21	_	_	_
 
 
-1	jeThamAlAnira`	jeThamAlAnira`	NON	NON	NON|NON	2	[  ]	_	_
-2	karmachArI	karmachArI	NON	NON	NON|NON	9	[  ]	_	_
-3	miShTAra	miShTAra	NON	NON	NON|NON	4	[  ]	_	_
-4	Ara	Ara	NON	NON	NON|NON	5	[  ]	_	_
-5	si	si	NON	NON	NON|NON	6	[  ]	_	_
-6	ghoShake	ghoShake	NON	NON	NON|NON	2	[  ]	_	_
-7	sulekhA	sulekhA	NON	NON	NON|NON	9	[  ]	_	_
-8	abashya;i	abashya;i	NON	NON	NON|NON	9	[  ]	_	_
-9	chinato	chinato	NON	NON	NON|NON	9	_	_	_
-10	.	.	NON	NON	NON|NON	10	_	_	_
+1	jeThamAlAnira`	jeThamAlAnira`	NON	NP	NON|NON	2	[  ]	_	_
+2	karmachArI	karmachArI	NON	NN	NON|NON	9	[  ]	_	_
+3	miShTAra	miShTAra	NON	NP	NON|NON	4	[  ]	_	_
+4	Ara	Ara	NON	NP	NON|NON	5	[  ]	_	_
+5	si	si	NON	NP	NON|NON	6	[  ]	_	_
+6	ghoShake	ghoShake	NON	NP	NON|NON	2	[  ]	_	_
+7	sulekhA	sulekhA	NON	NP	NON|NON	9	[  ]	_	_
+8	abashya;i	abashya;i	NON	ADV	NON|NON	9	[  ]	_	_
+9	chinato	chinato	NON	VF	NON|NON	9	_	_	_
+10	.	.	NON	SEN	NON|NON	10	_	_	_
 
 
-1	phlyATera	phlyATera	NON	NON	NON|NON	2	[  ]	_	_
-2	darajAra	darajAra	NON	NON	NON|NON	3	[  ]	_	_
-3	sAmane`	sAmane`	NON	NON	NON|NON	11	[  ]	_	_
-4	yAra	yAra	NON	NON	NON|NON	5	[  ]	_	_
-5	nAma`	nAma`	NON	NON	NON|NON	11	[  ]	_	_
-6	amana`	amana`	NON	NON	NON|NON	7	[  ]	_	_
-7	ba.Da	ba.Da	NON	NON	NON|NON	9	[  ]	_	_
-8	ba.Da	ba.Da	NON	NON	NON|NON	7	[  ]	_	_
-9	akShare	akShare	NON	NON	NON|NON	10	[  ]	_	_
-10	lekhA	lekhA	NON	NON	NON|NON	11	[  ]	_	_
-11	chhila	chhila	NON	NON	NON|NON	16	[  ]	_	_
-12	tAke`	tAke`	NON	NON	NON|NON	11	[  ]	_	_
-13	ata`	ata`	NON	NON	NON|NON	14	[  ]	_	_
-14	sahaje	sahaje	NON	NON	NON|NON	16	[  ]	_	_
-15	se	se	NON	NON	NON|NON	16	[  ]	_	_
-16	bhulabe	bhulabe	NON	NON	NON|NON	16	_	_	_
-17	kI	kI	NON	NON	NON|NON	16	[  ]	_	_
-18	kare`(2)	kare`(2)	NON	NON	NON|NON	17	[  ]	_	_
-19	.	.	NON	NON	NON|NON	19	_	_	_
+1	phlyATera	phlyATera	NON	NN	NON|NON	2	[  ]	_	_
+2	darajAra	darajAra	NON	NN	NON|NON	3	[  ]	_	_
+3	sAmane`	sAmane`	NON	PPI	NON|NON	11	[  ]	_	_
+4	yAra	yAra	NON	PP	NON|NON	5	[  ]	_	_
+5	nAma`	nAma`	NON	NN	NON|NON	11	[  ]	_	_
+6	amana`	amana`	NON	JJ	NON|NON	7	[  ]	_	_
+7	ba.Da	ba.Da	NON	JQA	NON|NON	9	[  ]	_	_
+8	ba.Da	ba.Da	NON	JQA	NON|NON	7	[  ]	_	_
+9	akShare	akShare	NON	NN	NON|NON	10	[  ]	_	_
+10	lekhA	lekhA	NON	NV	NON|NON	11	[  ]	_	_
+11	chhila	chhila	NON	VF	NON|NON	16	[  ]	_	_
+12	tAke`	tAke`	NON	PP	NON|NON	11	[  ]	_	_
+13	ata`	ata`	NON	QUA	NON|NON	14	[  ]	_	_
+14	sahaje	sahaje	NON	ADV	NON|NON	16	[  ]	_	_
+15	se	se	NON	PP	NON|NON	16	[  ]	_	_
+16	bhulabe	bhulabe	NON	VIS	NON|NON	16	_	_	_
+17	kI	kI	NON	PQ	NON|NON	16	[  ]	_	_
+18	kare`(2)	kare`(2)	NON	VF	NON|NON	17	[  ]	_	_
+19	.	.	NON	SEN	NON|NON	19	_	_	_
 
 
-1	kintu	kintu	NON	NON	NON|NON	2	[  ]	_	_
-2	etadinera	etadinera	NON	NON	NON|NON	3	[  ]	_	_
-3	bishbasta	bishbasta	NON	NON	NON|NON	4	[  ]	_	_
-4	karmachArI	karmachArI	NON	NON	NON|NON	15	[  ]	_	_
-5	miShTAra	miShTAra	NON	NON	NON|NON	6	[  ]	_	_
-6	Ara	Ara	NON	NON	NON|NON	7	[  ]	_	_
-7	si	si	NON	NON	NON|NON	8	[  ]	_	_
-8	ghoSha	ghoSha	NON	NON	NON|NON	4	[  ]	_	_
-9	kena`	kena`	NON	NON	NON|NON	10	[  ]	_	_
-10	haThAt	haThAt	NON	NON	NON|NON	15	[  ]	_	_
-11	eibhAbe	eibhAbe	NON	NON	NON|NON	10	[  ]	_	_
-12	jeThamAlAnira`	jeThamAlAnira`	NON	NON	NON|NON	15	[  ]	_	_
-13	biruddhe	biruddhe	NON	NON	NON|NON	12	[  ]	_	_
-14	bidroha	bidroha	NON	NON	NON|NON	15	[  ]	_	_
-15	kare`(2)	kare`(2)	NON	NON	NON|NON	20	[  ]	_	_
-16	basalena	basalena	NON	NON	NON|NON	15	[  ]	_	_
-17	tA`	tA`	NON	NON	NON|NON	15	[  ]	_	_
-18	se	se	NON	NON	NON|NON	20	[  ]	_	_
-19	bhebe	bhebe	NON	NON	NON|NON	20	[  ]	_	_
-20	uThate	uThate	NON	NON	NON|NON	20	_	_	_
-21	pArachhe	pArachhe	NON	NON	NON|NON	20	[  ]	_	_
-22	nA	nA	NON	NON	NON|NON	21	[  ]	_	_
-23	.	.	NON	NON	NON|NON	23	_	_	_
+1	kintu	kintu	NON	CNJ	NON|NON	2	[  ]	_	_
+2	etadinera	etadinera	NON	NN	NON|NON	3	[  ]	_	_
+3	bishbasta	bishbasta	NON	JJ	NON|NON	4	[  ]	_	_
+4	karmachArI	karmachArI	NON	NN	NON|NON	15	[  ]	_	_
+5	miShTAra	miShTAra	NON	NP	NON|NON	6	[  ]	_	_
+6	Ara	Ara	NON	NP	NON|NON	7	[  ]	_	_
+7	si	si	NON	NP	NON|NON	8	[  ]	_	_
+8	ghoSha	ghoSha	NON	NP	NON|NON	4	[  ]	_	_
+9	kena`	kena`	NON	PQ	NON|NON	10	[  ]	_	_
+10	haThAt	haThAt	NON	ADV	NON|NON	15	[  ]	_	_
+11	eibhAbe	eibhAbe	NON	ADV	NON|NON	10	[  ]	_	_
+12	jeThamAlAnira`	jeThamAlAnira`	NON	NP	NON|NON	15	[  ]	_	_
+13	biruddhe	biruddhe	NON	PPI	NON|NON	12	[  ]	_	_
+14	bidroha	bidroha	NON	NN	NON|NON	15	[  ]	_	_
+15	kare`(2)	kare`(2)	NON	VN	NON|NON	20	[  ]	_	_
+16	basalena	basalena	NON	VF	NON|NON	15	[  ]	_	_
+17	tA`	tA`	NON	DTR	NON|NON	15	[  ]	_	_
+18	se	se	NON	PP	NON|NON	20	[  ]	_	_
+19	bhebe	bhebe	NON	VN	NON|NON	20	[  ]	_	_
+20	uThate	uThate	NON	VN	NON|NON	20	_	_	_
+21	pArachhe	pArachhe	NON	VF	NON|NON	20	[  ]	_	_
+22	nA	nA	NON	NEG	NON|NON	21	[  ]	_	_
+23	.	.	NON	SEN	NON|NON	23	_	_	_
 
 
-1	tAra``	tAra``	NON	NON	NON|NON	2	[  ]	_	_
-2	dhAraNA	dhAraNA	NON	NON	NON|NON	14	[  ]	_	_
-3	kono	kono	NON	NON	NON|NON	5	[  ]	_	_
-4	aj~nAta	aj~nAta	NON	NON	NON|NON	5	[  ]	_	_
-5	kAraNe	kAraNe	NON	NON	NON|NON	14	[  ]	_	_
-6	ei	ei	NON	NON	NON|NON	8	[  ]	_	_
-7	saba	saba	NON	NON	NON|NON	8	[  ]	_	_
-8	pratiShThAne	pratiShThAne	NON	NON	NON|NON	9	[  ]	_	_
-9	karmachArIrA	karmachArIrA	NON	NON	NON|NON	14	[  ]	_	_
-10	shata	shata	NON	NON	NON|NON	11	[  ]	_	_
-11	duHkha	duHkha	NON	NON	NON|NON	12	[  ]	_	_
-12	kaShTeo	kaShTeo	NON	NON	NON|NON	14	[  ]	_	_
-13	mukha	mukha	NON	NON	NON|NON	14	[  ]	_	_
-14	khole	khole	NON	NON	NON|NON	14	_	_	_
-15	nA	nA	NON	NON	NON|NON	14	[  ]	_	_
-16	.	.	NON	NON	NON|NON	16	_	_	_
+1	tAra``	tAra``	NON	PP	NON|NON	2	[  ]	_	_
+2	dhAraNA	dhAraNA	NON	NN	NON|NON	14	[  ]	_	_
+3	kono	kono	NON	DTA	NON|NON	5	[  ]	_	_
+4	aj~nAta	aj~nAta	NON	JJ	NON|NON	5	[  ]	_	_
+5	kAraNe	kAraNe	NON	NN	NON|NON	14	[  ]	_	_
+6	ei	ei	NON	DTA	NON|NON	8	[  ]	_	_
+7	saba	saba	NON	JQQ	NON|NON	8	[  ]	_	_
+8	pratiShThAne	pratiShThAne	NON	NN	NON|NON	9	[  ]	_	_
+9	karmachArIrA	karmachArIrA	NON	NN	NON|NON	14	[  ]	_	_
+10	shata	shata	NON	JJ	NON|NON	11	[  ]	_	_
+11	duHkha	duHkha	NON	JJ	NON|NON	12	[  ]	_	_
+12	kaShTeo	kaShTeo	NON	JJ	NON|NON	14	[  ]	_	_
+13	mukha	mukha	NON	NN	NON|NON	14	[  ]	_	_
+14	khole	khole	NON	VF	NON|NON	14	_	_	_
+15	nA	nA	NON	NEG	NON|NON	14	[  ]	_	_
+16	.	.	NON	SEN	NON|NON	16	_	_	_
 
 
-1	nIrabe	nIrabe	NON	NON	NON|NON	7	[  ]	_	_
-2	samasta	samasta	NON	NON	NON|NON	3	[  ]	_	_
-3	jIbana	jIbana	NON	NON	NON|NON	7	[  ]	_	_
-4	dhare`	dhare`	NON	NON	NON|NON	3	[  ]	_	_
-5	jeThamAlAnidera	jeThamAlAnidera	NON	NON	NON|NON	7	[  ]	_	_
-6	sebA	sebA	NON	NON	NON|NON	7	[  ]	_	_
-7	kare`(2)	kare`(2)	NON	NON	NON|NON	7	_	_	_
-8	yAYa`	yAYa`	NON	NON	NON|NON	7	[  ]	_	_
-9	.	.	NON	NON	NON|NON	9	_	_	_
+1	nIrabe	nIrabe	NON	ADV	NON|NON	7	[  ]	_	_
+2	samasta	samasta	NON	JQQ	NON|NON	3	[  ]	_	_
+3	jIbana	jIbana	NON	NN	NON|NON	7	[  ]	_	_
+4	dhare`	dhare`	NON	PPI	NON|NON	3	[  ]	_	_
+5	jeThamAlAnidera	jeThamAlAnidera	NON	NP	NON|NON	7	[  ]	_	_
+6	sebA	sebA	NON	NN	NON|NON	7	[  ]	_	_
+7	kare`(2)	kare`(2)	NON	VN	NON|NON	7	_	_	_
+8	yAYa`	yAYa`	NON	VF	NON|NON	7	[  ]	_	_
+9	.	.	NON	SEN	NON|NON	9	_	_	_
 
 
 1	i.nrejite	i.nrejite	NON	NON	NON|NON	4	[  ]	_	_

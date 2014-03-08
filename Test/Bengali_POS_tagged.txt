@@ -306,7 +306,7 @@ kI\PQ emana\DTA gurutara\JJ byApAra\NN yA\DTR niYe\VN sarbatra\ADV chApA\JJ gu~n
 
 
 
-
+Train A
  
 ye\RPP byApAre\NN gujaba\NN raTaleo\NV raTate\VF pAre\VF tA\DTR halo\VF sulekhAra\NP sa~Nge\PPI AmAra\PP sAkShAtkAra\NN .\SEN 
 kintu\CNJ se\PP to\TO kaYeka\JJ ghaNTAra\NN Agera\NN kathA\NN .\SEN 
@@ -360,6 +360,12 @@ jAnate\VN chAilena\VF misesa\NP bishoYAsa\NP .\SEN
 Ami\PP takhano\PT shAjAhAna\NP hoTele\NP kAja\NN kari\VF .\SEN 
 AmAri\NN sAmane\PS kona\JJ eka\JQC pharena\JJ kanasuleTera\NN jAtIYa\JJ dibase\NN ekajana\JQC riporTAra\NN bandhu\NN mAnanIYa\JJ bishbAsake\NP jij~nesa\NN karalena\VF lATasAhebI\JJ nichChena\VF kabe\PQ ?\SEN 
 uni\PP khuba\QUA plijaDa\NN halena\VF nishchaYi\ADV ?\SEN 
+
+End of Train A
+
+
+
+
 moTei\ADV nA\NEG .\SEN 
 bara.n\CNJ ekaTu\QUA chaTe\VN uThalena\VF .\SEN 
 balalena\VF ,\SEN rAjanItite\NN AmAra\PP kI\PQ emana\DTA adhaHpatana\NN haYeChe\VF ye\CNJ sAmAnya\JJ gabharnarashipa\NN nite\VN habe\VF ?\SEN 
