@@ -1,0 +1,2 @@
+Multiple words are connected by - for eg. nachate-gaite\VN, this should be split into two verbs -- in the test set this is like it.
+Some punctuations like "" have gotten in

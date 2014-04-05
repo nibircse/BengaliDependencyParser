@@ -364,7 +364,7 @@ uni\PP khuba\QUA plijaDa\NN halena\VF nishchaYi\ADV ?\SEN
 End of Train A
 
 
-
+Train B
 
 moTei\ADV nA\NEG .\SEN 
 bara.n\CNJ ekaTu\QUA chaTe\VN uThalena\VF .\SEN 
@@ -512,6 +512,11 @@ kiChukShaNa\NN theme\VN dIrghashbAsa\NN phele\VN balena\VF tini\PP :\SEN "\SEN y
 kapAle\NN durbhoga\NN thAkale\VN ki\PQ Ara\ADV karA\VN yAbe\VF .\SEN 
 ki\PQ matalaba\NN tomAra\PP ?\SEN 
 odera\PP niYe\VN yAba\VF bhyAn\NP TrAmpera\NP bA.Di\NN .\SEN 
+
+
+End of Train B
+
+
 ekhAna\PS theke\PPI mAila\NN sAteka\JQC dUre\PS banera\NN odhAre\NN .\SEN 
 bisheSha\NN darakAra\NN nA\NEG pa.Dle\VN odike\PS keu\PP yAYa\VF nA\NEG .\SEN 
 tAChA.DA\CNJ bhyAn\NP grAhya\NN kare\VF nA\NEG kiChu\JQQ .\SEN 
@@ -738,6 +743,11 @@ ei\DTA AmAdera\PP pratij~nA\NN .\SEN
 rAjaputrera\NN kathAra\NN sa~Nge\PPI sura\NN miliYe\VN mantrIra\NN ba.Do\JJ Chele\NN ratanakumAra\NP balalena\VF AmarAo\PP sei\DTA eki\JQC pratij~nA\NN .\SEN 
 mantrIputra\NN ratanakumArera\NP kathAra\NN sa~Nge\PPI sura\NN miliYe\VN koTAlaputra\NN shaktikumAra\NP balalena\VF :\SEN AmarAo\PP sei\DTA pratij~nA\NN .\SEN 
 ateba\INT shikArera\NN kathA\NN bale\VN rAjaputra\NN ,\SEN mantrIputra\NN ,\SEN koTAlaputra\NN -\SEN ei\DTA tinajana\NN yAtrA\NN karalena\VF .\SEN 
+
+
+
+End of Train C
+
 tina\JQC tinaTe\JQC shaktishAlI\JJ sAdA\JJ gho.DAYa\NN cha.De\VF tArA\PP beriYe\VN pa.Dlena\VF .\SEN 
 tArA\PP ye\CND kothAYa\PQ gelena\VF -\SEN rAjyera\NN keu\PP jAnateo\VN pAralena\VF nA\NEG .\SEN 
 ekamAtra\ADV jAnala\VF mantrIra\NN dbitIYaputra\NN pabanakumAra\NP .\SEN 

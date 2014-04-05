@@ -8,7 +8,7 @@ Tags - DTA - determiner
 
 -------------------------------------------------------
 1. Proper nouns with two names -- root is the second name (or the last name)
-2. Two adverbs - satyi satyi -- both are treated separately -- NO changed! its satyi1 -> satyi2
+2. Two adverbs - satyi satyi  its satyi1 -> satyi2
 3. Jekhanei tini thakun na kno -- relative clause, aamar kono jay aashe na -- I connected jay and thakun (the two verbs), David made jekhanei as child of jay
 4. bhadralok, toh age khub active chilen what is toh?
 5. rakhi na -> negation rakhi -> na
@@ -19,14 +19,14 @@ Tags - DTA - determiner
 10. ta she behebe uthte parche na -- parche is parent of bidroha kore (ie two verbs are connected)
 11. kono ajana karone -- kono the determiner is connected to the NN, same for the adjective ajana
 12. jobon dhore -- dhore is a postposition so jibon -> dhore
-13. samasta jibon -- samasta  is a quantifier and hence jiban -> samasta
+13. QUA - samasta jibon -- samasta  is a quantifier and hence jiban -> samasta
 14. seba kare jay -- sheba is noun
-15. ekaTA\JQC kathA\NN -- quantifier with a noun katha -> ekta
+15. JQC - ekaTA\JQC kathA\NN -- quantifier with a noun katha -> ekta
 16. sutarA.n\CNJ Ara\NP si\NP ghoSha\NP temana\CND paristhitite\NN kena\PQ pho.Nsa\NN kare\VN uThabena\VIS nA\NEG ?\SEN  --> sutaran is connected to the main verb (CONJUNCTION)
 17. Ami\PP ,\SEN aneka\JQQ pApake\NN Ami\PP prAYa\ADV meneo\VN niYeChi\VF ,\SEN kintu\CNJ sulekhA\NP ,\SEN tomAra\PP sa~Nge\PPI mukhomukhi\ADV base\VN se\DTR sambandhe\PPI AlApa-AlochanA\NN karabAra\NV mato\PPI mAnasika\JJ abasthAYa\NN Ajo\PT Ami\PP pau.NChAte\VN pArini\VNG .\SEN -- Not sure which one is the main verb
 18. sutarA.n\CNJ ei\DTA nATakera\NN kiChuTA\JQQ takhanakAra\PT mato\PPI sulekhAra\NP kAChe\PPI aj~nAtai\NN raYe\VN gelo\VF .\SEN  --> PT is connected to head
 19. DTA -s absolute detrminer connected to the noun which is at the topmost -- ei\DTA chautrisha\NUM nambara\NN phlyATa\NN, ei is connected to phlyat
-20. erA\PP ye\TO chautrisha\NUM nambara\NN Che.De\VN -- ye is a clitic and I connected to erA
+20. TO - erA\PP ye\TO chautrisha\NUM nambara\NN Che.De\VN -- ye is a clitic and I connected to erA
 21. sAmAnya\JJ ekakhAnA\NN dokAna\NN ghara\NN -- saamnya -> ekhana -> dokan -> ghor (Nouns in sequence, form a chain)
 22 sutarA.n\CC jeThamAlAni\NP kompAnira\NP karmaprabAhe\NN thyAkAre\NP myAnasanera\NP chautrisha\NUM nambara\NN phlyATera\NN gurutba\NN kramashi\ADV be.De\VN yAbe\VF .\SEN  --CHECK THE ANNOTATION - I think what I have done is correct, but that could mean annotations before were wrong (check for sequence of nouns) (bd_27, i guess)
 Notes on Feb 25
@@ -34,12 +34,12 @@ Notes on Feb 25
 24. aneka\JQQ pApake\NN Ami\PP prAYa\ADV meneo\VN niYeChi\VF ,\SEN kintu\CNJ sulekhA\NP ,\SEN tomAra\PP sa~Nge\PPI mukhomukhi\ADV base\VN se\DTR ….. --> kintu becomes the root - 
 25. kintu Sulekha tomar -- tomar PP is pointing to sulekha (NP) sulekha -> tomar
 26. Alapalachana karbar - two nouns Alapalachana -> karbar
-27. ei\DTA nATakera\NN kiChuTA\JQQ -- nATakera -> kiChuTA
+27. DTA - ei\DTA nATakera\NN kiChuTA\JQQ -- nATakera -> kiChuTA
 28. sutaran -- conjunction at the beginning -- connected to main verb
 29. chautrisha\NUM nambara\NN phlyATa\NN -- 34 is connected to nambar, nambar is root of phlyat
 30. duradRRiShTi\NN beshidUra\NN agrasara\NN hate\VN pAre\VF ni\NEG .\SEN --> 3 NN's duradRRiShTi -> beshi.. -> ag..
 31. tA.Nra\PP duradRRiShTi\NN -> duradRRiShTi -> tA.Nra
-32. erA\PP ye\TO era -> ye
+32. TO - erA\PP ye\TO era -> ye
 33 JE/ YE --  Karon Mr Jethmalani aamak nieji bolechen je ei barite ……….(bolechen is the parent of je and je is the parent of the verb in the second part of the sentence)
 34. Rule: When post position connect to the previous noun or pro-noun.
 35. sutarA.n\CC jeThamAlAni\NP kompAnira\NP karmaprabAhe\NN thyAkAre\NP myAnasanera\NP chautrisha\NUM nambara\NN phlyATera\NN gurutba\NN kramashi\ADV be.De\VN yAbe\VF .\SEN -> Conjunction at the begining is connected to the main verb
@@ -60,4 +60,12 @@ Notes on Feb 25
 
 46.NO Verbs -- the last word is made as root, 1st and 2nd word connect to that eTAto\NN AmAra\PP aj~nAtabAsa\NN .\SEN 
 
-47. 
+47. JQC NN -- NN -> JQC eka\JQC shahare\NN 
+
+48. tAhalei\CND to\TO -> To is connected to CND and CND is connected to main verb at the end
+
+49. JQC JJ NN -> JQC is child of NN
+
+50. Adverb is always connected to verb.
+51. Root is mostly a verb or a conjunction
+52. 
