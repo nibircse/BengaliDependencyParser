@@ -1,407 +1,407 @@
-1	Ami	Ami	P	PP	_	11	[  ]	_	_
-2	satyi	satyi	A	AVB	_	11	[  ]	_	_
-3	satyii	satyii	A	AVB	_	2	[  ]	_	_
-4	oi	oi	D	DTA	_	6	[  ]	_	_
-5	jagadIsha	jagadIsha	N	NP	_	6	[  ]	_	_
-6	jeThamAlAni	jeThamAlAni	N	NP	_	11	[  ]	_	_
-7	bhadralokera	bhadralokera	N	NN	_	6	[  ]	_	_
-8	kono	kono	D	DTA	_	9	[  ]	_	_
-9	khabarA``	khabarA``	N	NN	_	11	[  ]	_	_
-10	khabara`	khabara`	N	NN	_	11	[  ]	_	_
-11	rAkhi	rAkhi	V	VF	_	11	_	_	_
-12	nA	nA	N	NEG	_	11	[  ]	_	_
-13	.	.	S	SEN	_	13	_	_	_
+1	Ami	_	P	PP	_	11	[  ]	_	_
+2	satyi	_	A	AVB	_	11	[  ]	_	_
+3	satyii	_	A	AVB	_	2	[  ]	_	_
+4	oi	_	D	DTA	_	6	[  ]	_	_
+5	jagadIsha	_	N	NP	_	6	[  ]	_	_
+6	jeThamAlAni	_	N	NP	_	11	[  ]	_	_
+7	bhadralokera	_	N	NN	_	6	[  ]	_	_
+8	kono	_	D	DTA	_	9	[  ]	_	_
+9	khabarA``	_	N	NN	_	11	[  ]	_	_
+10	khabara`	_	N	NN	_	11	[  ]	_	_
+11	rAkhi	_	V	VF	_	0	[  ]	_	_
+12	nA	_	N	NEG	_	11	[  ]	_	_
+13	.	_	S	SEN	_	13	_	_	_
 
-1	bombAi	bombAi	N	NP	_	6	[  ]	_	_
-2	dillI	dillI	N	NP	_	6	[  ]	_	_
-3	mAdrAja	mAdrAja	N	NP	_	6	[  ]	_	_
-4	yekhAnei	yekhAnei	P	PS	_	5	[  ]	_	_
-5	tini	tini	P	PP	_	6	[  ]	_	_
-6	thAkuna	thAkuna	V	VIS	_	10	[  ]	_	_
-7	tAte	tAte	D	DTR	_	8	[  ]	_	_
-8	AmAra`	AmAra`	P	PP	_	10	[  ]	_	_
-9	kichhu	kichhu	J	JQQ	_	10	[  ]	_	_
-10	yAYa`	yAYa`	V	VF	_	10	_	_	_
-11	Ase	Ase	V	VF	_	10	[  ]	_	_
-12	nA	nA	N	NEG	_	10	[  ]	_	_
-13	.	.	S	SEN	_	13	_	_	_
+1	bombAi	_	N	NP	_	6	[  ]	_	_
+2	dillI	_	N	NP	_	6	[  ]	_	_
+3	mAdrAja	_	N	NP	_	6	[  ]	_	_
+4	yekhAnei	_	P	PS	_	5	[  ]	_	_
+5	tini	_	P	PP	_	6	[  ]	_	_
+6	thAkuna	_	V	VIS	_	10	[  ]	_	_
+7	tAte	_	D	DTR	_	8	[  ]	_	_
+8	AmAra`	_	P	PP	_	10	[  ]	_	_
+9	kichhu	_	J	JQQ	_	10	[  ]	_	_
+10	yAYa`	_	V	VF	_	0	[  ]	_	_
+11	Ase	_	V	VF	_	10	[  ]	_	_
+12	nA	_	N	NEG	_	10	[  ]	_	_
+13	.	_	S	SEN	_	13	_	_	_
 
-1	sulekhA	sulekhA	N	NP	_	2	[  ]	_	_
-2	balalo	balalo	V	VF	_	2	_	_	_
-3	ora	ora	P	PP	_	8	[  ]	_	_
-4	chokhera	chokhera	N	NN	_	5	[  ]	_	_
-5	maNi	maNi	N	NN	_	6	[  ]	_	_
-6	bhAganeTira	bhAganeTira	N	NN	_	8	[  ]	_	_
-7	kI	kI	P	PQ	_	8	[  ]	_	_
-8	halo	halo	V	VF	_	2	[  ]	_	_
-9	?	.	S	SEN	_	9	_	_	_
+1	sulekhA	_	N	NP	_	2	[  ]	_	_
+2	balalo	_	V	VF	_	8	[  ]	_	_
+3	ora	_	P	PP	_	8	[  ]	_	_
+4	chokhera	_	N	NN	_	5	[  ]	_	_
+5	maNi	_	N	NN	_	6	[  ]	_	_
+6	bhAganeTira	_	N	NN	_	8	[  ]	_	_
+7	kI	_	P	PQ	_	8	[  ]	_	_
+8	halo	_	V	VF	_	0	[  ]	_	_
+9	?	_	S	SEN	_	9	_	_	_
 
-1	bhadraloka	bhadraloka	N	NN	_	6	[  ]	_	_
-2	to	to	T	TO	_	6	[  ]	_	_
-3	Age	Age	P	PT	_	6	[  ]	_	_
-4	khuba	khuba	Q	QUA	_	5	[  ]	_	_
-5	YyAkaTibha	YyAkaTibha	J	JJ	_	6	[  ]	_	_
-6	chhilena	chhilena	V	VF	_	6	_	_	_
-7	.	.	S	SEN	_	7	_	_	_
+1	bhadraloka	_	N	NN	_	6	[  ]	_	_
+2	to	_	T	TO	_	1	[  ]	_	_
+3	Age	_	P	PT	_	4	[  ]	_	_
+4	khuba	_	Q	QUA	_	5	[  ]	_	_
+5	YyAkaTibha	_	J	JJ	_	6	[  ]	_	_
+6	chhilena	_	V	VF	_	0	[  ]	_	_
+7	.	_	S	SEN	_	7	_	_	_
 
-1	AmAke	AmAke	P	PP	_	5	[  ]	_	_
-2	ebAra	ebAra	P	PT	_	7	[  ]	_	_
-3	satya	satya	J	JJ	_	4	[  ]	_	_
-4	kathA`	kathA`	N	NN	_	6	[  ]	_	_
-5	sbIkAra	sbIkAra	N	NN	_	5	_	_	_
-6	karate	karate	V	VF	_	5	[  ]	_	_
-7	halo	halo	V	VF	_	6	[  ]	_	_
-8	.	.	S	SEN	_	8	_	_	_
+1	AmAke	_	P	PP	_	3	[  ]	_	_
+2	ebAra	_	P	PT	_	1	[  ]	_	_
+3	satya	_	J	JJ	_	4	[  ]	_	_
+4	kathA`	_	N	NN	_	5	[  ]	_	_
+5	sbIkAra	_	N	NN	_	6	[  ]	_	_
+6	karate	_	V	VF	_	0	[  ]	_	_
+7	halo	_	V	VF	_	6	[  ]	_	_
+8	.	_	S	SEN	_	8	_	_	_
 
-1	chautrisha	chautrisha	N	NUM	_	2	[  ]	_	_
-2	nambara`	nambara`	N	NN	_	3	[  ]	_	_
-3	phlyATa	phlyATa	N	NN	_	7	[  ]	_	_
-4	ye`	ye`	C	CNJ	_	3	[  ]	_	_
-5	Ara	Ara	A	ADV	_	7	[  ]	_	_
-6	odera	odera	P	PP	_	7	[  ]	_	_
-7	adhikAre	adhikAre	N	NN	_	7	_	_	_
-8	nei	nei	V	VNG	_	7	[  ]	_	_
-9	tAo`	tAo`	D	DTA	_	10	[  ]	_	_
-10	shuniYe	shuniYe	V	VN	_	7	[  ]	_	_
-11	dilAma	dilAma	V	VF	_	10	[  ]	_	_
-12	.	.	S	SEN	_	12	_	_	_
+1	chautrisha	_	N	NUM	_	2	[  ]	_	_
+2	nambara`	_	N	NN	_	3	[  ]	_	_
+3	phlyATa	_	N	NN	_	7	[  ]	_	_
+4	ye`	_	C	CNJ	_	3	[  ]	_	_
+5	Ara	_	A	ADV	_	7	[  ]	_	_
+6	odera	_	P	PP	_	7	[  ]	_	_
+7	adhikAre	_	N	NN	_	10	[  ]	_	_
+8	nei	_	V	VNG	_	7	[  ]	_	_
+9	tAo`	_	D	DTA	_	10	[  ]	_	_
+10	shuniYe	_	V	VN	_	0	[  ]	_	_
+11	dilAma	_	V	VF	_	10	[  ]	_	_
+12	.	_	S	SEN	_	12	_	_	_
 
-1	ye`	ye`	D	DTA	_	2	[  ]	_	_
-2	ghaTanAke	ghaTanAke	N	NN	_	3	[  ]	_	_
-3	kendra	kendra	N	NN	_	7	[  ]	_	_
-4	kare`(2)	kare`(2)	P	PPI	_	3	[  ]	_	_
-5	ei	ei	D	DTA	_	6	[  ]	_	_
-6	aghaTana	aghaTana	N	NN	_	7	[  ]	_	_
-7	ghaTechhe	ghaTechhe	V	VF	_	7	_	_	_
-8	sekhAne	sekhAne	P	PT	_	9	[  ]	_	_
-9	tArao`	tArao`	P	PP	_	13	[  ]	_	_
-10	ye`	ye`	C	CNJ	_	11	[  ]	_	_
-11	sAmAnya	sAmAnya	J	JJ	_	12	[  ]	_	_
-12	bhUmikA	bhUmikA	N	NN	_	13	[  ]	_	_
-13	chhila	chhila	V	VF	_	18	[  ]	_	_
-14	tA`	tA`	D	DTR	_	15	[  ]	_	_
-15	sulekhA	sulekhA	N	NP	_	18	[  ]	_	_
-16	nishchaYa	nishchaYa	A	ADV	_	18	[  ]	_	_
-17	ekhanao	ekhanao	A	ADV	_	16	[  ]	_	_
-18	jAnate`	jAnate`	V	VN	_	18	_	_	_
-19	pAre	pAre	V	VF	_	18	[  ]	_	_
-20	ni	ni	N	NEG	_	19	[  ]	_	_
-21	.	.	S	SEN	_	21	_	_	_
+1	ye`	_	D	DTA	_	2	[  ]	_	_
+2	ghaTanAke	_	N	NN	_	3	[  ]	_	_
+3	kendra	_	N	NN	_	7	[  ]	_	_
+4	kare`(2)	_	P	PPI	_	3	[  ]	_	_
+5	ei	_	D	DTA	_	6	[  ]	_	_
+6	aghaTana	_	N	NN	_	7	[  ]	_	_
+7	ghaTechhe	_	V	VF	_	13	[  ]	_	_
+8	sekhAne	_	P	PT	_	9	[  ]	_	_
+9	tArao`	_	P	PP	_	13	[  ]	_	_
+10	ye`	_	C	CNJ	_	11	[  ]	_	_
+11	sAmAnya	_	J	JJ	_	12	[  ]	_	_
+12	bhUmikA	_	N	NN	_	13	[  ]	_	_
+13	chhila	_	V	VF	_	18	[  ]	_	_
+14	tA`	_	D	DTR	_	15	[  ]	_	_
+15	sulekhA	_	N	NP	_	18	[  ]	_	_
+16	nishchaYa	_	A	ADV	_	18	[  ]	_	_
+17	ekhanao	_	A	ADV	_	16	[  ]	_	_
+18	jAnate`	_	V	VN	_	0	[  ]	_	_
+19	pAre	_	V	VF	_	18	[  ]	_	_
+20	ni	_	N	NEG	_	19	[  ]	_	_
+21	.	_	S	SEN	_	21	_	_	_
 
-1	jeThamAlAnira`	jeThamAlAnira`	N	NP	_	2	[  ]	_	_
-2	karmachArI	karmachArI	N	NN	_	9	[  ]	_	_
-3	miShTAra	miShTAra	N	NP	_	4	[  ]	_	_
-4	Ara	Ara	N	NP	_	5	[  ]	_	_
-5	si	si	N	NP	_	6	[  ]	_	_
-6	ghoShake	ghoShake	N	NP	_	2	[  ]	_	_
-7	sulekhA	sulekhA	N	NP	_	9	[  ]	_	_
-8	abashya;i	abashya;i	A	ADV	_	9	[  ]	_	_
-9	chinato	chinato	V	VF	_	9	_	_	_
-10	.	.	S	SEN	_	10	_	_	_
+1	jeThamAlAnira`	_	N	NP	_	2	[  ]	_	_
+2	karmachArI	_	N	NN	_	9	[  ]	_	_
+3	miShTAra	_	N	NP	_	4	[  ]	_	_
+4	Ara	_	N	NP	_	5	[  ]	_	_
+5	si	_	N	NP	_	6	[  ]	_	_
+6	ghoShake	_	N	NP	_	2	[  ]	_	_
+7	sulekhA	_	N	NP	_	9	[  ]	_	_
+8	abashya;i	_	A	ADV	_	9	[  ]	_	_
+9	chinato	_	V	VF	_	0	[  ]	_	_
+10	.	_	S	SEN	_	10	_	_	_
 
-1	phlyATera	phlyATera	N	NN	_	2	[  ]	_	_
-2	darajAra	darajAra	N	NN	_	3	[  ]	_	_
-3	sAmane`	sAmane`	P	PPI	_	11	[  ]	_	_
-4	yAra	yAra	P	PP	_	5	[  ]	_	_
-5	nAma`	nAma`	N	NN	_	11	[  ]	_	_
-6	amana`	amana`	J	JJ	_	7	[  ]	_	_
-7	ba.Da	ba.Da	J	JQH	_	9	[  ]	_	_
-8	ba.Da	ba.Da	J	JQH	_	7	[  ]	_	_
-9	akShare	akShare	N	NN	_	10	[  ]	_	_
-10	lekhA	lekhA	N	NV	_	11	[  ]	_	_
-11	chhila	chhila	V	VF	_	16	[  ]	_	_
-12	tAke`	tAke`	P	PP	_	11	[  ]	_	_
-13	ata`	ata`	Q	QUA	_	14	[  ]	_	_
-14	sahaje	sahaje	A	ADV	_	16	[  ]	_	_
-15	se	se	P	PP	_	16	[  ]	_	_
-16	bhulabe	bhulabe	V	VIS	_	16	_	_	_
-17	kI	kI	P	PQ	_	16	[  ]	_	_
-18	kare`(2)	kare`(2)	V	VF	_	17	[  ]	_	_
-19	.	.	S	SEN	_	19	_	_	_
+1	phlyATera	_	N	NN	_	2	[  ]	_	_
+2	darajAra	_	N	NN	_	3	[  ]	_	_
+3	sAmane`	_	P	PPI	_	11	[  ]	_	_
+4	yAra	_	P	PP	_	5	[  ]	_	_
+5	nAma`	_	N	NN	_	11	[  ]	_	_
+6	amana`	_	J	JJ	_	7	[  ]	_	_
+7	ba.Da	_	J	JQH	_	9	[  ]	_	_
+8	ba.Da	_	J	JQH	_	7	[  ]	_	_
+9	akShare	_	N	NN	_	10	[  ]	_	_
+10	lekhA	_	N	NV	_	11	[  ]	_	_
+11	chhila	_	V	VF	_	16	[  ]	_	_
+12	tAke`	_	P	PP	_	11	[  ]	_	_
+13	ata`	_	Q	QUA	_	14	[  ]	_	_
+14	sahaje	_	A	ADV	_	16	[  ]	_	_
+15	se	_	P	PP	_	16	[  ]	_	_
+16	bhulabe	_	V	VIS	_	0	[  ]	_	_
+17	kI	_	P	PQ	_	16	[  ]	_	_
+18	kare`(2)	_	V	VF	_	17	[  ]	_	_
+19	.	_	S	SEN	_	19	_	_	_
 
-1	kintu	kintu	C	CNJ	_	2	[  ]	_	_
-2	etadinera	etadinera	N	NN	_	3	[  ]	_	_
-3	bishbasta	bishbasta	J	JJ	_	4	[  ]	_	_
-4	karmachArI	karmachArI	N	NN	_	15	[  ]	_	_
-5	miShTAra	miShTAra	N	NP	_	6	[  ]	_	_
-6	Ara	Ara	N	NP	_	7	[  ]	_	_
-7	si	si	N	NP	_	8	[  ]	_	_
-8	ghoSha	ghoSha	N	NP	_	4	[  ]	_	_
-9	kena`	kena`	P	PQ	_	10	[  ]	_	_
-10	haThAt	haThAt	A	ADV	_	15	[  ]	_	_
-11	eibhAbe	eibhAbe	A	ADV	_	10	[  ]	_	_
-12	jeThamAlAnira`	jeThamAlAnira`	N	NP	_	15	[  ]	_	_
-13	biruddhe	biruddhe	P	PPI	_	12	[  ]	_	_
-14	bidroha	bidroha	N	NN	_	15	[  ]	_	_
-15	kare`(2)	kare`(2)	V	VN	_	20	[  ]	_	_
-16	basalena	basalena	V	VF	_	15	[  ]	_	_
-17	tA`	tA`	D	DTR	_	15	[  ]	_	_
-18	se	se	P	PP	_	20	[  ]	_	_
-19	bhebe	bhebe	V	VN	_	20	[  ]	_	_
-20	uThate	uThate	V	VN	_	20	_	_	_
-21	pArachhe	pArachhe	V	VF	_	20	[  ]	_	_
-22	nA	nA	N	NEG	_	21	[  ]	_	_
-23	.	.	S	SEN	_	23	_	_	_
+1	kintu	_	C	CNJ	_	2	[  ]	_	_
+2	etadinera	_	N	NN	_	3	[  ]	_	_
+3	bishbasta	_	J	JJ	_	4	[  ]	_	_
+4	karmachArI	_	N	NN	_	15	[  ]	_	_
+5	miShTAra	_	N	NP	_	6	[  ]	_	_
+6	Ara	_	N	NP	_	7	[  ]	_	_
+7	si	_	N	NP	_	8	[  ]	_	_
+8	ghoSha	_	N	NP	_	4	[  ]	_	_
+9	kena`	_	P	PQ	_	10	[  ]	_	_
+10	haThAt	_	A	ADV	_	15	[  ]	_	_
+11	eibhAbe	_	A	ADV	_	10	[  ]	_	_
+12	jeThamAlAnira`	_	N	NP	_	15	[  ]	_	_
+13	biruddhe	_	P	PPI	_	12	[  ]	_	_
+14	bidroha	_	N	NN	_	15	[  ]	_	_
+15	kare`(2)	_	V	VN	_	20	[  ]	_	_
+16	basalena	_	V	VF	_	15	[  ]	_	_
+17	tA`	_	D	DTR	_	15	[  ]	_	_
+18	se	_	P	PP	_	20	[  ]	_	_
+19	bhebe	_	V	VN	_	20	[  ]	_	_
+20	uThate	_	V	VN	_	0	[  ]	_	_
+21	pArachhe	_	V	VF	_	20	[  ]	_	_
+22	nA	_	N	NEG	_	21	[  ]	_	_
+23	.	_	S	SEN	_	23	_	_	_
 
-1	tAra``	tAra``	P	PP	_	2	[  ]	_	_
-2	dhAraNA	dhAraNA	N	NN	_	14	[  ]	_	_
-3	kono	kono	D	DTA	_	5	[  ]	_	_
-4	aj~nAta	aj~nAta	J	JJ	_	5	[  ]	_	_
-5	kAraNe	kAraNe	N	NN	_	14	[  ]	_	_
-6	ei	ei	D	DTA	_	8	[  ]	_	_
-7	saba	saba	J	JQQ	_	8	[  ]	_	_
-8	pratiShThAne	pratiShThAne	N	NN	_	9	[  ]	_	_
-9	karmachArIrA	karmachArIrA	N	NN	_	14	[  ]	_	_
-10	shata	shata	J	JJ	_	11	[  ]	_	_
-11	duHkha	duHkha	J	JJ	_	12	[  ]	_	_
-12	kaShTeo	kaShTeo	J	JJ	_	14	[  ]	_	_
-13	mukha	mukha	N	NN	_	14	[  ]	_	_
-14	khole	khole	V	VF	_	14	_	_	_
-15	nA	nA	N	NEG	_	14	[  ]	_	_
-16	.	.	S	SEN	_	16	_	_	_
+1	tAra``	_	P	PP	_	2	[  ]	_	_
+2	dhAraNA	_	N	NN	_	14	[  ]	_	_
+3	kono	_	D	DTA	_	5	[  ]	_	_
+4	aj~nAta	_	J	JJ	_	5	[  ]	_	_
+5	kAraNe	_	N	NN	_	14	[  ]	_	_
+6	ei	_	D	DTA	_	8	[  ]	_	_
+7	saba	_	J	JQQ	_	8	[  ]	_	_
+8	pratiShThAne	_	N	NN	_	9	[  ]	_	_
+9	karmachArIrA	_	N	NN	_	14	[  ]	_	_
+10	shata	_	J	JJ	_	11	[  ]	_	_
+11	duHkha	_	J	JJ	_	12	[  ]	_	_
+12	kaShTeo	_	J	JJ	_	14	[  ]	_	_
+13	mukha	_	N	NN	_	14	[  ]	_	_
+14	khole	_	V	VF	_	0	[  ]	_	_
+15	nA	_	N	NEG	_	14	[  ]	_	_
+16	.	_	S	SEN	_	16	_	_	_
 
-1	nIrabe	nIrabe	A	ADV	_	7	[  ]	_	_
-2	samasta	samasta	J	JQQ	_	3	[  ]	_	_
-3	jIbana	jIbana	N	NN	_	7	[  ]	_	_
-4	dhare`	dhare`	P	PPI	_	3	[  ]	_	_
-5	jeThamAlAnidera	jeThamAlAnidera	N	NP	_	7	[  ]	_	_
-6	sebA	sebA	N	NN	_	7	[  ]	_	_
-7	kare`(2)	kare`(2)	V	VN	_	7	_	_	_
-8	yAYa`	yAYa`	V	VF	_	7	[  ]	_	_
-9	.	.	S	SEN	_	9	_	_	_
+1	nIrabe	_	A	ADV	_	7	[  ]	_	_
+2	samasta	_	J	JQQ	_	3	[  ]	_	_
+3	jIbana	_	N	NN	_	7	[  ]	_	_
+4	dhare`	_	P	PPI	_	3	[  ]	_	_
+5	jeThamAlAnidera	_	N	NP	_	7	[  ]	_	_
+6	sebA	_	N	NN	_	7	[  ]	_	_
+7	kare`(2)	_	V	VN	_	0	[  ]	_	_
+8	yAYa`	_	V	VF	_	7	[  ]	_	_
+9	.	_	S	SEN	_	9	_	_	_
 
-1	i.nrejite	i.nrejite	N	NN	_	4	[  ]	_	_
-2	ekaTA`	ekaTA`	J	JQC	_	3	[  ]	_	_
-3	kathA`	kathA`	N	NN	_	4	[  ]	_	_
-4	Achhe	Achhe	V	VF	_	4	_	_	_
-5	ke.Ncho	ke.Ncho	N	NN	_	8	[  ]	_	_
-6	kakhano	kakhano	A	AVB	_	9	[  ]	_	_
-7	kakhano	kakhano	A	AVB	_	6	[  ]	_	_
-8	pho.Nsa	pho.Nsa	N	NN	_	9	[  ]	_	_
-9	kare`(2)	kare`(2)	V	VN	_	9	_	_	_
-10	oThe	oThe	V	VF	_	9	[  ]	_	_
-11	.	.	S	SEN	_	11	_	_	_
+1	i.nrejite	_	N	NN	_	4	[  ]	_	_
+2	ekaTA`	_	J	JQC	_	3	[  ]	_	_
+3	kathA`	_	N	NN	_	4	[  ]	_	_
+4	Achhe	_	V	VF	_	9	[  ]	_	_
+5	ke.Ncho	_	N	NN	_	9	[  ]	_	_
+6	kakhano	_	A	AVB	_	9	[  ]	_	_
+7	kakhano	_	A	AVB	_	6	[  ]	_	_
+8	pho.Nsa	_	N	NN	_	9	[  ]	_	_
+9	kare`(2)	_	V	VN	_	0	[  ]	_	_
+10	oThe	_	V	VF	_	9	[  ]	_	_
+11	.	_	S	SEN	_	11	_	_	_
 
-1	sutarA.n	sutarA.n	C	CNJ	_	7	[  ]	_	_
-2	Ara	Ara	N	NP	_	3	[  ]	_	_
-3	si	si	N	NP	_	4	[  ]	_	_
-4	ghoSha	ghoSha	N	NP	_	9	[  ]	_	_
-5	temana	temana	C	CND	_	6	[  ]	_	_
-6	paristhitite	paristhitite	N	NN	_	9	[  ]	_	_
-7	kena`	kena`	P	PQ	_	8	[  ]	_	_
-8	pho.Nsa	pho.Nsa	N	NN	_	9	[  ]	_	_
-9	kare`(2)	kare`(2)	V	VN	_	9	_	_	_
-10	uThabena	uThabena	V	VIS	_	9	[  ]	_	_
-11	nA	nA	N	NEG	_	10	[  ]	_	_
-12	.	.	S	SEN	_	12	_	_	_
+1	sutarA.n	_	C	CNJ	_	7	[  ]	_	_
+2	Ara	_	N	NP	_	3	[  ]	_	_
+3	si	_	N	NP	_	4	[  ]	_	_
+4	ghoSha	_	N	NP	_	9	[  ]	_	_
+5	temana	_	C	CND	_	6	[  ]	_	_
+6	paristhitite	_	N	NN	_	9	[  ]	_	_
+7	kena`	_	P	PQ	_	8	[  ]	_	_
+8	pho.Nsa	_	N	NN	_	9	[  ]	_	_
+9	kare`(2)	_	V	VN	_	0	[  ]	_	_
+10	uThabena	_	V	VIS	_	9	[  ]	_	_
+11	nA	_	N	NEG	_	10	[  ]	_	_
+12	.	_	S	SEN	_	12	_	_	_
 
-1	sulekhAra	sulekhAra	N	NP	_	6	[  ]	_	_
-2	haYato	haYato	A	ADV	_	4	[  ]	_	_
-3	Aro	Aro	A	ADV	_	2	[  ]	_	_
-4	jAnabAra	jAnabAra	N	NV	_	6	[  ]	_	_
-5	ichchhA	ichchhA	N	NN	_	6	[  ]	_	_
-6	chhila	chhila	V	VF	_	6	_	_	_
-7	.	.	S	SEN	_	7	_	_	_
+1	sulekhAra	_	N	NP	_	6	[  ]	_	_
+2	haYato	_	A	ADV	_	4	[  ]	_	_
+3	Aro	_	A	ADV	_	2	[  ]	_	_
+4	jAnabAra	_	N	NV	_	6	[  ]	_	_
+5	ichchhA	_	N	NN	_	6	[  ]	_	_
+6	chhila	_	V	VF	_	0	[  ]	_	_
+7	.	_	S	SEN	_	7	_	_	_
 
-1	ei	ei	D	DTA	_	3	[  ]	_	_
-2	thyAkAre	thyAkAre	N	NP	_	3	[  ]	_	_
-3	myAnasane	myAnasane	N	NP	_	4	[  ]	_	_
-4	ese	ese	V	VN	_	10	[  ]	_	_
-5	mAnuShera`	mAnuShera`	N	NN	_	10	[  ]	_	_
-6	aneka	aneka	J	JQQ	_	7	[  ]	_	_
-7	adhaHpatanera	adhaHpatanera	N	NN	_	10	[  ]	_	_
-8	pratyakShadarshI	pratyakShadarshI	J	JJ	_	9	[  ]	_	_
-9	sAkShI	sAkShI	N	NN	_	10	[  ]	_	_
-10	haYe	haYe	V	VN	_	0	[  ]	_	_
-11	Achhi	Achhi	V	VF	_	10	[  ]	_	_
-12	Ami	Ami	P	PP	_	10	[  ]	_	_
-13	.	.	S	SEN	_	13	_	_	_
+1	ei	_	D	DTA	_	3	[  ]	_	_
+2	thyAkAre	_	N	NP	_	3	[  ]	_	_
+3	myAnasane	_	N	NP	_	4	[  ]	_	_
+4	ese	_	V	VN	_	10	[  ]	_	_
+5	mAnuShera`	_	N	NN	_	10	[  ]	_	_
+6	aneka	_	J	JQQ	_	7	[  ]	_	_
+7	adhaHpatanera	_	N	NN	_	10	[  ]	_	_
+8	pratyakShadarshI	_	J	JJ	_	9	[  ]	_	_
+9	sAkShI	_	N	NN	_	10	[  ]	_	_
+10	haYe	_	V	VN	_	0	[  ]	_	_
+11	Achhi	_	V	VF	_	10	[  ]	_	_
+12	Ami	_	P	PP	_	10	[  ]	_	_
+13	.	_	S	SEN	_	13	_	_	_
 
-1	aneka	aneka	J	JQQ	_	2	[  ]	_	_
-2	pApake	pApake	N	NN	_	5	[  ]	_	_
-3	Ami	Ami	P	PP	_	5	[  ]	_	_
-4	prAYa	prAYa	A	ADV	_	5	[  ]	_	_
-5	meneo	meneo	V	VN	_	7	[  ]	_	_
-6	niYechhi	niYechhi	V	VF	_	5	[  ]	_	_
-7	kintu	kintu	C	CNJ	_	23	[  ]	_	_
-8	sulekhA	sulekhA	N	NP	_	12	[  ]	_	_
-9	tomAra	tomAra	P	PP	_	8	[  ]	_	_
-10	sa~Nge	sa~Nge	P	PPI	_	9	[  ]	_	_
-11	mukhomukhi	mukhomukhi	A	ADV	_	12	[  ]	_	_
-12	base`	base`	V	VN	_	23	[  ]	_	_
-13	se	se	D	DTR	_	5	[  ]	_	_
-14	sambandhe	sambandhe	P	PPI	_	13	[  ]	_	_
-15	AlApa	AlApa	N	NN	_	23	[  ]	_	_
-16	AlochanA	AlochanA	N	NN	_	15	[  ]	_	_
-17	karabAra`	karabAra`	N	NV	_	16	[  ]	_	_
-18	mato	mato	P	PPI	_	15	[  ]	_	_
-19	mAnasika	mAnasika	J	JJ	_	20	[  ]	_	_
-20	abasthAYa	abasthAYa	N	NN	_	23	[  ]	_	_
-21	Ajao	Ajao	P	PT	_	23	[  ]	_	_
-22	Ami	Ami	P	PP	_	23	[  ]	_	_
-23	pau.NchhAte`	pau.NchhAte`	V	VN	_	23	_	_	_
-24	pArini	pArini	V	VNG	_	23	[  ]	_	_
-25	.	.	S	SEN	_	25	_	_	_
+1	aneka	_	J	JQQ	_	2	[  ]	_	_
+2	pApake	_	N	NN	_	5	[  ]	_	_
+3	Ami	_	P	PP	_	5	[  ]	_	_
+4	prAYa	_	A	ADV	_	5	[  ]	_	_
+5	meneo	_	V	VN	_	7	[  ]	_	_
+6	niYechhi	_	V	VF	_	5	[  ]	_	_
+7	kintu	_	C	CNJ	_	23	[  ]	_	_
+8	sulekhA	_	N	NP	_	12	[  ]	_	_
+9	tomAra	_	P	PP	_	8	[  ]	_	_
+10	sa~Nge	_	P	PPI	_	9	[  ]	_	_
+11	mukhomukhi	_	A	ADV	_	12	[  ]	_	_
+12	base`	_	V	VN	_	23	[  ]	_	_
+13	se	_	D	DTR	_	5	[  ]	_	_
+14	sambandhe	_	P	PPI	_	13	[  ]	_	_
+15	AlApa	_	N	NN	_	23	[  ]	_	_
+16	AlochanA	_	N	NN	_	15	[  ]	_	_
+17	karabAra`	_	N	NV	_	16	[  ]	_	_
+18	mato	_	P	PPI	_	15	[  ]	_	_
+19	mAnasika	_	J	JJ	_	20	[  ]	_	_
+20	abasthAYa	_	N	NN	_	23	[  ]	_	_
+21	Ajao	_	P	PT	_	23	[  ]	_	_
+22	Ami	_	P	PP	_	23	[  ]	_	_
+23	pau.NchhAte`	_	V	VN	_	0	[  ]	_	_
+24	pArini	_	V	VNG	_	23	[  ]	_	_
+25	.	_	S	SEN	_	25	_	_	_
 
-1	sutarA.n	sutarA.n	C	CNJ	_	10	[  ]	_	_
-2	ei	ei	D	DTA	_	3	[  ]	_	_
-3	nATakera	nATakera	N	NN	_	10	[  ]	_	_
-4	kichhuTA	kichhuTA	J	JQQ	_	3	[  ]	_	_
-5	takhanakAra	takhanakAra	P	PT	_	10	[  ]	_	_
-6	mato	mato	P	PPI	_	5	[  ]	_	_
-7	sulekhAra	sulekhAra	N	NP	_	10	[  ]	_	_
-8	kAchhe	kAchhe	P	PPI	_	7	[  ]	_	_
-9	aj~nAtai	aj~nAtai	N	NN	_	10	[  ]	_	_
-10	raYe	raYe	V	VN	_	10	_	_	_
-11	gelo	gelo	V	VF	_	10	[  ]	_	_
-12	.	.	S	SEN	_	12	_	_	_
+1	sutarA.n	_	C	CNJ	_	10	[  ]	_	_
+2	ei	_	D	DTA	_	3	[  ]	_	_
+3	nATakera	_	N	NN	_	10	[  ]	_	_
+4	kichhuTA	_	J	JQQ	_	3	[  ]	_	_
+5	takhanakAra	_	P	PT	_	10	[  ]	_	_
+6	mato	_	P	PPI	_	5	[  ]	_	_
+7	sulekhAra	_	N	NP	_	10	[  ]	_	_
+8	kAchhe	_	P	PPI	_	7	[  ]	_	_
+9	aj~nAtai	_	N	NN	_	10	[  ]	_	_
+10	raYe	_	V	VN	_	0	[  ]	_	_
+11	gelo	_	V	VF	_	10	[  ]	_	_
+12	.	_	S	SEN	_	12	_	_	_
 
-1	sulekhA	sulekhA	N	NP	_	2	[  ]	_	_
-2	bhebe	bhebe	V	VN	_	2	_	_	_
-3	basalo	basalo	V	VF	_	2	[  ]	_	_
-4	ei	ei	D	DTA	_	6	[  ]	_	_
-5	chautrisha	chautrisha	N	NUM	_	6	[  ]	_	_
-6	nambara`	nambara`	N	NN	_	8	[  ]	_	_
-7	phlyATa	phlyATa	N	NN	_	6	[  ]	_	_
-8	chhe.De	chhe.De	V	VN	_	2	[  ]	_	_
-9	yAoYATA	yAoYATA	N	NV	_	8	[  ]	_	_
-10	bodha	bodha	N	NN	_	11	[  ]	_	_
-11	haYa`	haYa`	V	VF	_	8	[  ]	_	_
-12	jeThamAlAniderai	jeThamAlAniderai	N	NP	_	11	[  ]	_	_
-13	kono	kono	D	DTA	_	15	[  ]	_	_
-14	sudUraprasArI	sudUraprasArI	J	JJ	_	15	[  ]	_	_
-15	parikalpanAra	parikalpanAra	N	NN	_	11	[  ]	_	_
-16	a.nsha	a.nsha	N	NN	_	15	[  ]	_	_
-17	.	.	S	SEN	_	17	_	_	_
+1	sulekhA	_	N	NP	_	2	[  ]	_	_
+2	bhebe	_	V	VN	_	8	[  ]	_	_
+3	basalo	_	V	VF	_	2	[  ]	_	_
+4	ei	_	D	DTA	_	6	[  ]	_	_
+5	chautrisha	_	N	NUM	_	6	[  ]	_	_
+6	nambara`	_	N	NN	_	8	[  ]	_	_
+7	phlyATa	_	N	NN	_	6	[  ]	_	_
+8	chhe.De	_	V	VN	_	11	[  ]	_	_
+9	yAoYATA	_	N	NV	_	8	[  ]	_	_
+10	bodha	_	N	NN	_	11	[  ]	_	_
+11	haYa`	_	V	VF	_	0	[  ]	_	_
+12	jeThamAlAniderai	_	N	NP	_	11	[  ]	_	_
+13	kono	_	D	DTA	_	15	[  ]	_	_
+14	sudUraprasArI	_	J	JJ	_	15	[  ]	_	_
+15	parikalpanAra	_	N	NN	_	11	[  ]	_	_
+16	a.nsha	_	N	NN	_	15	[  ]	_	_
+17	.	_	S	SEN	_	17	_	_	_
 
-1	e	e	D	DTA	_	2	[  ]	_	_
-2	byApAre	byApAre	N	NN	_	7	[  ]	_	_
-3	tAra``	tAra``	P	PP	_	4	[  ]	_	_
-4	duradRRShTi	duradRRShTi	N	NN	_	7	[  ]	_	_
-5	beshidUra	beshidUra	N	NN	_	4	[  ]	_	_
-6	agrasara	agrasara	N	NN	_	5	[  ]	_	_
-7	hate``	hate``	V	VN	_	7	_	_	_
-8	pAre	pAre	V	VF	_	7	[  ]	_	_
-9	ni	ni	N	NEG	_	8	[  ]	_	_
-10	.	.	S	SEN	_	10	_	_	_
+1	e	_	D	DTA	_	2	[  ]	_	_
+2	byApAre	_	N	NN	_	7	[  ]	_	_
+3	tAra``	_	P	PP	_	4	[  ]	_	_
+4	duradRRShTi	_	N	NN	_	7	[  ]	_	_
+5	beshidUra	_	N	NN	_	4	[  ]	_	_
+6	agrasara	_	N	NN	_	5	[  ]	_	_
+7	hate``	_	V	VN	_	0	[  ]	_	_
+8	pAre	_	V	VF	_	7	[  ]	_	_
+9	ni	_	N	NEG	_	8	[  ]	_	_
+10	.	_	S	SEN	_	10	_	_	_
 
-1	ekaTu	ekaTu	J	JQQ	_	2	[  ]	_	_
-2	Ashcharyyai	Ashcharyyai	N	NN	_	3	[  ]	_	_
-3	haYe	haYe	V	VN	_	3	_	_	_
-4	gelo	gelo	V	VF	_	3	[  ]	_	_
-5	sulekhA	sulekhA	N	NP	_	3	[  ]	_	_
-6	.	.	S	SEN	_	6	_	_	_
+1	ekaTu	_	J	JQQ	_	2	[  ]	_	_
+2	Ashcharyyai	_	N	NN	_	3	[  ]	_	_
+3	haYe	_	V	VN	_	0	[  ]	_	_
+4	gelo	_	V	VF	_	3	[  ]	_	_
+5	sulekhA	_	N	NP	_	3	[  ]	_	_
+6	.	_	S	SEN	_	6	_	_	_
 
-1	se	se	P	PP	_	2	[  ]	_	_
-2	balalo	balalo	V	VF	_	2	_	_	_
-3	abAka	abAka	J	JJ	_	4	[  ]	_	_
-4	kANDa	kANDa	N	NN	_	2	[  ]	_	_
-5	.	.	S	SEN	_	5	_	_	_
+1	se	_	P	PP	_	2	[  ]	_	_
+2	balalo	_	V	VF	_	0	[  ]	_	_
+3	abAka	_	J	JJ	_	4	[  ]	_	_
+4	kANDa	_	N	NN	_	2	[  ]	_	_
+5	.	_	S	SEN	_	5	_	_	_
 
-1	erA`	erA`	P	PP	_	5	[  ]	_	_
-2	ye`	ye`	T	TO	_	1	[  ]	_	_
-3	chautrisha	chautrisha	N	NUM	_	4	[  ]	_	_
-4	nambara`	nambara`	N	NN	_	5	[  ]	_	_
-5	chhe.De	chhe.De	V	VN	_	5	_	_	_
-6	kakhano	kakhano	A	ADV	_	7	[  ]	_	_
-7	chale	chale	V	VN	_	5	[  ]	_	_
-8	yAbena	yAbena	V	VF	_	7	[  ]	_	_
-9	tA`	tA`	D	DTR	_	5	[  ]	_	_
-10	Ami	Ami	P	PP	_	11	[  ]	_	_
-11	bhAbatei	bhAbatei	V	VN	_	9	[  ]	_	_
-12	pAri	pAri	V	VF	_	11	[  ]	_	_
-13	ni	ni	N	NEG	_	12	[  ]	_	_
-14	.	.	S	SEN	_	14	_	_	_
+1	erA`	_	P	PP	_	5	[  ]	_	_
+2	ye`	_	T	TO	_	1	[  ]	_	_
+3	chautrisha	_	N	NUM	_	4	[  ]	_	_
+4	nambara`	_	N	NN	_	5	[  ]	_	_
+5	chhe.De	_	V	VN	_	11	[  ]	_	_
+6	kakhano	_	A	ADV	_	7	[  ]	_	_
+7	chale	_	V	VN	_	5	[  ]	_	_
+8	yAbena	_	V	VF	_	7	[  ]	_	_
+9	tA`	_	D	DTR	_	11	[  ]	_	_
+10	Ami	_	P	PP	_	11	[  ]	_	_
+11	bhAbatei	_	V	VN	_	0	[  ]	_	_
+12	pAri	_	V	VF	_	11	[  ]	_	_
+13	ni	_	N	NEG	_	12	[  ]	_	_
+14	.	_	S	SEN	_	14	_	_	_
 
-1	tAra``	tAra``	D	DTA	_	2	[  ]	_	_
-2	kAraNa`	kAraNa`	N	NN	_	4	[  ]	_	_
-3	ei	ei	D	DTA	_	4	[  ]	_	_
-4	ye`	ye`	D	DTR	_	26	[  ]	_	_
-5	jeThamAlAnirA	jeThamAlAnirA	N	NP	_	16	[  ]	_	_
-6	sAmAnya	sAmAnya	J	JJ	_	7	[  ]	_	_
-7	ekakhAnA	ekakhAnA	N	NN	_	16	[  ]	_	_
-8	dokAna	dokAna	N	NN	_	7	[  ]	_	_
-9	ghara	ghara	N	NN	_	8	[  ]	_	_
-10	theke	theke	P	PPI	_	9	[  ]	_	_
-11	ei	ei	D	DTA	_	12	[  ]	_	_
-12	kabachhare	kabachhare	N	NN	_	16	[  ]	_	_
-13	bijanese	bijanese	N	NN	_	12	[  ]	_	_
-14	eto	eto	Q	QUA	_	15	[  ]	_	_
-15	unnati	unnati	N	NN	_	16	[  ]	_	_
-16	karechhena	karechhena	V	VF	_	17	[  ]	_	_
-17	tAra``	tAra``	D	DTR	_	26	[  ]	_	_
-18	pichhane	pichhane	P	PPI	_	17	[  ]	_	_
-19	thyAkAre	thyAkAre	N	NP	_	20	[  ]	_	_
-20	myAnasanera	myAnasanera	N	NP	_	26	[  ]	_	_
-21	chautrisha	chautrisha	N	NUM	_	22	[  ]	_	_
-22	nambara`	nambara`	N	NN	_	23	[  ]	_	_
-23	gharera	gharera	N	NN	_	20	[  ]	_	_
-24	aneka	aneka	J	JQQ	_	25	[  ]	_	_
-25	abadAna	abadAna	N	NN	_	26	[  ]	_	_
-26	Achhe	Achhe	V	VF	_	26	_	_	_
-27	.	.	S	SEN	_	27	_	_	_
+1	tAra``	_	D	DTA	_	2	[  ]	_	_
+2	kAraNa`	_	N	NN	_	4	[  ]	_	_
+3	ei	_	D	DTA	_	4	[  ]	_	_
+4	ye`	_	D	DTR	_	5	[  ]	_	_
+5	jeThamAlAnirA	_	N	NP	_	7	[  ]	_	_
+6	sAmAnya	_	J	JJ	_	7	[  ]	_	_
+7	ekakhAnA	_	N	NN	_	12	[  ]	_	_
+8	dokAna	_	N	NN	_	7	[  ]	_	_
+9	ghara	_	N	NN	_	8	[  ]	_	_
+10	theke	_	P	PPI	_	9	[  ]	_	_
+11	ei	_	D	DTA	_	12	[  ]	_	_
+12	kabachhare	_	N	NN	_	16	[  ]	_	_
+13	bijanese	_	N	NN	_	12	[  ]	_	_
+14	eto	_	Q	QUA	_	15	[  ]	_	_
+15	unnati	_	N	NN	_	16	[  ]	_	_
+16	karechhena	_	V	VF	_	26	[  ]	_	_
+17	tAra``	_	D	DTR	_	16	[  ]	_	_
+18	pichhane	_	P	PPI	_	17	[  ]	_	_
+19	thyAkAre	_	N	NP	_	20	[  ]	_	_
+20	myAnasanera	_	N	NP	_	26	[  ]	_	_
+21	chautrisha	_	N	NUM	_	22	[  ]	_	_
+22	nambara`	_	N	NN	_	23	[  ]	_	_
+23	gharera	_	N	NN	_	20	[  ]	_	_
+24	aneka	_	J	JQQ	_	25	[  ]	_	_
+25	abadAna	_	N	NN	_	26	[  ]	_	_
+26	Achhe	_	V	VF	_	0	[  ]	_	_
+27	.	_	S	SEN	_	27	_	_	_
 
-1	se	se	D	DTA	_	2	[  ]	_	_
-2	kathA`	kathA`	N	NN	_	7	[  ]	_	_
-3	miShTAra	miShTAra	N	NP	_	4	[  ]	_	_
-4	jagadIsha	jagadIsha	N	NP	_	5	[  ]	_	_
-5	jeThamAlAni	jeThamAlAni	N	NP	_	5	_	_	_
-6	konodina	konodina	N	NN	_	7	[  ]	_	_
-7	bhulate	bhulate	V	VN	_	7	_	_	_
-8	pArabena	pArabena	V	VIS	_	7	[  ]	_	_
-9	nA	nA	N	NEG	_	8	[  ]	_	_
-10	.	.	S	SEN	_	10	_	_	_
+1	se	_	D	DTA	_	2	[  ]	_	_
+2	kathA`	_	N	NN	_	3	[  ]	_	_
+3	miShTAra	_	N	NP	_	4	[  ]	_	_
+4	jagadIsha	_	N	NP	_	5	[  ]	_	_
+5	jeThamAlAni	_	N	NP	_	7	[  ]	_	_
+6	konodina	_	N	NN	_	7	[  ]	_	_
+7	bhulate	_	V	VN	_	0	[  ]	_	_
+8	pArabena	_	V	VIS	_	7	[  ]	_	_
+9	nA	_	N	NEG	_	8	[  ]	_	_
+10	.	_	S	SEN	_	10	_	_	_
 
-1	sutarA.n	sutarA.n	C	CC	_	12	[  ]	_	_
-2	jeThamAlAni	jeThamAlAni	N	NP	_	3	[  ]	_	_
-3	kompAnira`	kompAnira`	N	NP	_	12	[  ]	_	_
-4	karmaprabAhe	karmaprabAhe	N	NN	_	3	[  ]	_	_
-5	thyAkAre	thyAkAre	N	NP	_	6	[  ]	_	_
-6	myAnasanera	myAnasanera	N	NP	_	12	[  ]	_	_
-7	chautrisha	chautrisha	N	NUM	_	8	[  ]	_	_
-8	nambara`	nambara`	N	NN	_	9	[  ]	_	_
-9	phlyATera	phlyATera	N	NN	_	6	[  ]	_	_
-10	gurutba	gurutba	N	NN	_	12	[  ]	_	_
-11	kramasha;i	kramasha;i	A	ADV	_	12	[  ]	_	_
-12	be.De	be.De	V	VN	_	12	_	_	_
-13	yAbe	yAbe	V	VF	_	12	[  ]	_	_
-14	.	.	S	SEN	_	14	_	_	_
+1	sutarA.n	_	C	CC	_	12	[  ]	_	_
+2	jeThamAlAni	_	N	NP	_	3	[  ]	_	_
+3	kompAnira`	_	N	NP	_	12	[  ]	_	_
+4	karmaprabAhe	_	N	NN	_	3	[  ]	_	_
+5	thyAkAre	_	N	NP	_	6	[  ]	_	_
+6	myAnasanera	_	N	NP	_	12	[  ]	_	_
+7	chautrisha	_	N	NUM	_	8	[  ]	_	_
+8	nambara`	_	N	NN	_	9	[  ]	_	_
+9	phlyATera	_	N	NN	_	6	[  ]	_	_
+10	gurutba	_	N	NN	_	12	[  ]	_	_
+11	kramasha;i	_	A	ADV	_	12	[  ]	_	_
+12	be.De	_	V	VN	_	0	[  ]	_	_
+13	yAbe	_	V	VF	_	12	[  ]	_	_
+14	.	_	S	SEN	_	14	_	_	_
 
-1	sulekhA	sulekhA	N	NP	_	8	[  ]	_	_
-2	ekabAra	ekabAra	A	ADV	_	8	[  ]	_	_
-3	miShTAra	miShTAra	N	NP	_	4	[  ]	_	_
-4	Ara	Ara	N	NP	_	5	[  ]	_	_
-5	si	si	N	NP	_	6	[  ]	_	_
-6	ghoShera	ghoShera	N	NP	_	8	[  ]	_	_
-7	kathAo	kathAo	N	NN	_	8	[  ]	_	_
-8	bhAbalo	bhAbalo	V	VF	_	8	_	_	_
-9	.	.	S	SEN	_	9	_	_	_
+1	sulekhA	_	N	NP	_	8	[  ]	_	_
+2	ekabAra	_	A	ADV	_	8	[  ]	_	_
+3	miShTAra	_	N	NP	_	4	[  ]	_	_
+4	Ara	_	N	NP	_	5	[  ]	_	_
+5	si	_	N	NP	_	6	[  ]	_	_
+6	ghoShera	_	N	NP	_	8	[  ]	_	_
+7	kathAo	_	N	NN	_	8	[  ]	_	_
+8	bhAbalo	_	V	VF	_	0	[  ]	_	_
+9	.	_	S	SEN	_	9	_	_	_
 
-1	papi	papi	N	NP	_	2	[  ]	_	_
-2	bishoYAsake	bishoYAsake	N	NP	_	3	[  ]	_	_
-3	shikhaNDI	shikhaNDI	N	NN	_	4	[  ]	_	_
-4	rekhe	rekhe	V	VN	_	17	[  ]	_	_
-5	ye`	ye`	D	DTA	_	6	[  ]	_	_
-6	jaghanya	jaghanya	J	JJ	_	7	[  ]	_	_
-7	Sha.Dayantrera	Sha.Dayantrera	N	NN	_	7	_	_	_
-8	mAdhyame	mAdhyame	P	PPI	_	7	[  ]	_	_
-9	jeThamAlAnirA	jeThamAlAnirA	N	NP	_	8	[  ]	_	_
-10	ei	ei	D	DTA	_	9	[  ]	_	_
-11	chautrisha	chautrisha	N	NUM	_	12	[  ]	_	_
-12	nambara`	nambara`	N	NN	_	10	[  ]	_	_
-13	phlyATa	phlyATa	N	NN	_	12	[  ]	_	_
-14	AmAra`	AmAra`	P	PP	_	15	[  ]	_	_
-15	hAta``	hAta``	N	NN	_	17	[  ]	_	_
-16	theke	theke	P	PPI	_	15	[  ]	_	_
-17	chhiniYe	chhiniYe	V	VN	_	20	[  ]	_	_
-18	nebAra	nebAra	N	NV	_	17	[  ]	_	_
-19	cheShTA	cheShTA	N	NN	_	20	[  ]	_	_
-20	karechhilena	karechhilena	V	VF	_	26	[  ]	_	_
-21	tAo`	tAo`	D	DTR	_	22	[  ]	_	_
-22	Ami	Ami	P	PP	_	23	[  ]	_	_
-23	sulekhAra	sulekhAra	N	NP	_	26	[  ]	_	_
-24	kAchhe	kAchhe	P	PPI	_	23	[  ]	_	_
-25	aprakAshita	aprakAshita	J	JJ	_	26	[  ]	_	_
-26	rekhechhi	rekhechhi	V	VF	_	0	[  ]	_	_
-27	.	.	S	SEN	_	27	_	_	_
+1	papi	_	N	NP	_	2	[  ]	_	_
+2	bishoYAsake	_	N	NP	_	3	[  ]	_	_
+3	shikhaNDI	_	N	NN	_	4	[  ]	_	_
+4	rekhe	_	V	VN	_	17	[  ]	_	_
+5	ye`	_	D	DTA	_	6	[  ]	_	_
+6	jaghanya	_	J	JJ	_	7	[  ]	_	_
+7	Sha.Dayantrera	_	N	NN	_	7	_	_	_
+8	mAdhyame	_	P	PPI	_	7	[  ]	_	_
+9	jeThamAlAnirA	_	N	NP	_	8	[  ]	_	_
+10	ei	_	D	DTA	_	9	[  ]	_	_
+11	chautrisha	_	N	NUM	_	12	[  ]	_	_
+12	nambara`	_	N	NN	_	10	[  ]	_	_
+13	phlyATa	_	N	NN	_	12	[  ]	_	_
+14	AmAra`	_	P	PP	_	15	[  ]	_	_
+15	hAta``	_	N	NN	_	17	[  ]	_	_
+16	theke	_	P	PPI	_	15	[  ]	_	_
+17	chhiniYe	_	V	VN	_	20	[  ]	_	_
+18	nebAra	_	N	NV	_	17	[  ]	_	_
+19	cheShTA	_	N	NN	_	20	[  ]	_	_
+20	karechhilena	_	V	VF	_	26	[  ]	_	_
+21	tAo`	_	D	DTR	_	22	[  ]	_	_
+22	Ami	_	P	PP	_	23	[  ]	_	_
+23	sulekhAra	_	N	NP	_	26	[  ]	_	_
+24	kAchhe	_	P	PPI	_	23	[  ]	_	_
+25	aprakAshita	_	J	JJ	_	26	[  ]	_	_
+26	rekhechhi	_	V	VF	_	0	[  ]	_	_
+27	.	_	S	SEN	_	27	_	_	_
 
