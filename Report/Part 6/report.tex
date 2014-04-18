@@ -105,8 +105,64 @@ Some of the annotation rule followed:
 
 For the strategy of implementation, I am thinking of doing a  mix of semi-supervised and rule based methods.
 
-\section{First Round of evaluation}
-I have been able to annotate around 3000 tokens in total. Therefore I trained a supervised parser (Turbo Parser) with 1000 training examples. On test dataset A (1000 tokens), it gave an unlabeled attachment score of 41.6$\%$. This is very low and I think because this is primarily because of the very less number of training examples. I plan to annotate a lot more tokens and also try to develop a rule based parser.
+\section{First Round of evaluation - System Analysis of corpus A}
+I have been able to annotate around \textbf{2500} tokens in total. Separating 2000 tokens for test data, I had around 500 tokens left for training. I used the Turbo Parser \citep{MSXAF10} to train the parser. The features which I used to train the parser are POS tags (coarse and fine). The coarse POS tags are basically the first character of the POS tags. 
+
+ The unlabeled attachment scores after training the basic, standard and full model are listed in table \ref{First}.
+\begin{table}
+\begin{center}
+  \begin{tabular}{ l | c }
+  \hline
+  Model & Accuracy (\%)\\
+  \hline
+  Basic Model & \textbf{57.11} \\
+  Standard Model & 55.59 \\
+  Full Model & 55.27 \\
+  \hline
+   \end{tabular}
+\end{center}
+\caption{First round of evaluation on Corpus A. Training size of just 500 tokens}
+\label{First}
+\end{table}
+
+
+\section{Lessons learned and Revised Design}
+As we can see, the unlabeled accuracies are not that high. This is primarily because of the small size of the training set. Also for the same reason, the basic model is performing better than the standard and the full model. For the next steps, I plan to annotate a lot more data so that I get meaningful results so that I can think of incorporating other features. Some of the features which I am planning to incorporate are morphological features and also do some unsupervised clustering. But right now, the priority is to annotate more training data to get more meaningful results.
+
+\subsection{Performance on more training data}
+In the few weeks, I have been able to annotate more data for training. I have annotated 4000 tokens for training. The features which were used were just POS tags. Table \ref{Second} lists down the unlabeled attachment scores. 
+
+\begin{table}
+\begin{center}
+  \begin{tabular}{ l | c }
+  \hline
+  Model & Accuracy (\%)\\
+  \hline
+  Basic Model & \textbf{62.32} \\
+  Standard Model & 60.48 \\
+  Full Model & 60.91 \\
+  \hline
+   \end{tabular}
+\end{center}
+\caption{Second round of evaluation on Corpus A. Training size of 4023 tokens.}
+\label{Second}
+\end{table}
+
+
+\section{System Analysis of Corpus B}
+
+
+
+
+
+
+
+
+
+
+
+
+%Therefore I trained a supervised parser (Turbo Parser) with 1000 training examples. On test dataset A (1000 tokens), it gave an unlabeled attachment score of 41.6$\%$. This is very low and I think because this is primarily because of the very less number of training examples. I plan to annotate a lot more tokens and also try to develop a rule based parser.
  
 
 \newpage
