@@ -1,4 +1,4 @@
-\begin{thebibliography}{22}
+\begin{thebibliography}{23}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -131,6 +131,11 @@ Goutam~Kumar Saha, Amiya~Baran Saha, and Sudipto Debnath.
 \newblock Computer assisted bangla words pos tagging.
 \newblock In \emph{Proceedings of the International Symposium on Machine
   Translation NLP and TSS (iTRANS)}, 2004.
+
+\bibitem[Sarkar()]{BMA}
+Sudeshna Sarkar.
+\newblock Morphological analyzer engine for bengali.
+\newblock URL \url{http://nltr.org/snltr-software/}.
 
 \bibitem[Shastri(1973)]{Shastri}
 C.~Shastri.

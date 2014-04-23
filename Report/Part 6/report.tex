@@ -111,7 +111,7 @@ I have been able to annotate around \textbf{2500} tokens in total. Separating 20
  The unlabeled attachment scores after training the basic, standard and full model are listed in table \ref{First}.
 \begin{table}
 \begin{center}
-  \begin{tabular}{ l | c }
+  \begin{tabular}{ l || c }
   \hline
   Model & Accuracy (\%)\\
   \hline
@@ -127,29 +127,95 @@ I have been able to annotate around \textbf{2500} tokens in total. Separating 20
 
 
 \section{Lessons learned and Revised Design}
-As we can see, the unlabeled accuracies are not that high. This is primarily because of the small size of the training set. Also for the same reason, the basic model is performing better than the standard and the full model. For the next steps, I plan to annotate a lot more data so that I get meaningful results so that I can think of incorporating other features. Some of the features which I am planning to incorporate are morphological features and also do some unsupervised clustering. But right now, the priority is to annotate more training data to get more meaningful results.
+As we can see, the unlabeled accuracies are not that high. This is primarily because of the small size of the training set. Also for the same reason, the basic model is performing better than the standard and the full model. For the next steps, I plan to annotate a lot more data to get meaningful results so that I can think of incorporating other features. Some of the features which I am planning to incorporate are morphological features and also do some unsupervised clustering. But right now, the priority is to annotate more training data.
 
 \subsection{Performance on more training data}
-In the few weeks, I have been able to annotate more data for training. I have annotated 4000 tokens for training. The features which were used were just POS tags. Table \ref{Second} lists down the unlabeled attachment scores. 
+In the few weeks, I have been able to annotate more data for training. Similar features as above were used (coarse and full POS tags). I did annotation in couple of batches. In the first batch, I annotated a total of around \textbf{4000} tokens and at the second round of effort, I was able to annotate around \textbf{5300} tokens. Table \ref{Second} shows the unlabeled attachment scores. \\
+
+The unlabeled accuracy scores are respectable and much better than the initial round of evaluation with just 500 tokens. It is clear that the parser was able to learn better with more training examples. Also the difference in performance of the three models has decreased suggesting that the size of the training set is meaningful to train a standard or full model. Infact for 5300 tokens, the full model performs better than the standard model. Also the difference in accuracies for the two training sets is not much suggesting that we have to use new features to have a better parser. I am planning to add some morphological features to see if there is an increase in the accuracy.\\
+
+As planned earlier, I have incorporated some morphological features of the language. I have used the Bengali morphological analyzer \citep{BMA} made available by the researchers at Indian Institute of Technology Kharagpur. On manual analysis, the performance of the morphological analyzer looked decent. Although there were many morphological features produced as output by the morphological analyzer, I used the root/lemma of a given word as one of the feature. Table \ref{Third} shows the unlabeled accuracy on test corpus A. \\
+
+Morphological features indeed helped!. The accuracy of the parser increased a bit on adding information about the root of each word. This was interesting to observe. Although the performance of the standard model remained the same, the accuracy of both the basic and full model increased. 
+
 
 \begin{table}
 \begin{center}
-  \begin{tabular}{ l | c }
+  \begin{tabular}{ l || c }
   \hline
   Model & Accuracy (\%)\\
   \hline
-  Basic Model & \textbf{62.32} \\
-  Standard Model & 60.48 \\
-  Full Model & 60.91 \\
+  Basic Model + 4023 tokens & \textbf{62.32} \\
+  Standard Model + 4023 tokens & 60.48 \\
+  Full Model + 4023 tokens & 60.91 \\
+  Basic Model + 5304 tokens & \textbf{62.98} \\
+  Standard Model + 5304 tokens & 61.45 \\
+  Full Model + 5304 tokens & 61.89\\
   \hline
    \end{tabular}
 \end{center}
-\caption{Second round of evaluation on Corpus A. Training size of 4023 tokens.}
+\caption{Second round of evaluation on Corpus A.}
 \label{Second}
 \end{table}
 
 
+
+\begin{table}
+\begin{center}
+  \begin{tabular}{ l || c }
+  \hline
+  Model & Accuracy (\%)\\
+  \hline
+  Basic Model & \textbf{63.74} \\
+  Standard Model & 61.45 \\
+  Full Model & 62.11 \\
+  \hline
+   \end{tabular}
+\end{center}
+\caption{Unlabeled accuracy on Test Corpus A. Morphological features used for training.}
+\label{Third}
+\end{table}
+
 \section{System Analysis of Corpus B}
+
+Table \ref{Four} shows the unlabeled accuracy for test corpus B on both the training datasets. On the larger training set, the system performs rather poorly with the highest accuracy of 59.25\% achieved by the full model. On training on the complete training set, the accuracy increased (60.91\% by the full model) though it performs poorly as compared to test corpus A. 
+
+\begin{table}
+\begin{center}
+  \begin{tabular}{ l || c }
+  \hline
+  Model & Accuracy (\%)\\
+  \hline
+  Basic Model + 4023 tokens & 58.36 \\
+  Standard Model + 4023 tokens & 58.14 \\
+  Full Model + 4023 tokens & \textbf{59.25} \\
+  Basic Model + 5304 tokens & 59.58 \\
+  Standard Model + 5304 tokens & \textbf{60.91} \\
+  Full Model + 5304 tokens & \textbf{60.91}\\
+  \hline
+   \end{tabular}
+\end{center}
+\caption{Unlabeled accuracy on Test Corpus B.}
+\label{Four}
+\end{table}
+
+\begin{table}
+\begin{center}
+  \begin{tabular}{ l || c }
+  \hline
+  Model & Accuracy (\%)\\
+  \hline
+  Basic Model & 59.58 \\
+  Standard Model & 61.24 \\
+  Full Model & \textbf{61.90} \\
+  \hline
+   \end{tabular}
+\end{center}
+\caption{Unlabeled accuracy on Test Corpus B. Morphological features used for training.}
+\label{Five}
+\end{table}
+
+
 
 
 
