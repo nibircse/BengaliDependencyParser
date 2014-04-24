@@ -166,9 +166,13 @@ Morphological features indeed helped!. The accuracy of the parser increased a bi
   \hline
   Model & Accuracy (\%)\\
   \hline
-  Basic Model & \textbf{63.74} \\
-  Standard Model & 61.45 \\
-  Full Model & 62.11 \\
+  Basic Model + lemma& \textbf{63.74} \\
+  Standard Model + lemma& 61.45 \\
+  Full Model + lemma& 62.11 \\
+  \hline
+  Basic Model + l + n + p& 60.59 \\
+  Standard Model + l + n + p& 61.89 \\
+  Full Model + l + n + p& \textbf{64.17} \\
   \hline
    \end{tabular}
 \end{center}
@@ -178,7 +182,7 @@ Morphological features indeed helped!. The accuracy of the parser increased a bi
 
 \section{System Analysis of Corpus B}
 
-Table \ref{Four} shows the unlabeled accuracy for test corpus B on both the training datasets. On the larger training set, the system performs rather poorly with the highest accuracy of 59.25\% achieved by the full model. On training on the complete training set, the accuracy increased (60.91\% by the full model) though it performs poorly as compared to test corpus A. 
+Table \ref{Four} shows the unlabeled accuracy for test corpus B on both the training datasets. On the larger training set, the system performs rather poorly with the highest accuracy of 59.25\% achieved by the full model. As the parser is trained on the larger corpus, the accuracy increased (60.91\% by the full model) though it still performs poorly as compared to test corpus A. 
 
 \begin{table}
 \begin{center}
@@ -205,9 +209,13 @@ Table \ref{Four} shows the unlabeled accuracy for test corpus B on both the trai
   \hline
   Model & Accuracy (\%)\\
   \hline
-  Basic Model & 59.58 \\
-  Standard Model & 61.24 \\
-  Full Model & \textbf{61.90} \\
+  Basic Model + lemma & 59.58 \\
+  Standard Model + lemma & 61.24 \\
+  Full Model + lemma & \textbf{61.90} \\
+  \hline
+  Basic Model + l + n + p& 59.69 \\
+  Standard Model + l + n + p& 60.58 \\
+  Full Model + l + n + p& \textbf{61.02} \\
   \hline
    \end{tabular}
 \end{center}
