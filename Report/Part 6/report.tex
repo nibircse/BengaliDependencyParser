@@ -87,20 +87,57 @@ Some work has been done in building dependency parsers for Bengali. \citep{ghosh
 Microsoft Research India has a POS tagged dataset for several Indian languages including Bengali. The bengali dataset has 899 POS tagged sentences. Also I have been able to gain access to the annotated dataset which was used in the shared task held at ICON 2009 and 2010. Although I am aware that I cannot use the annotated dataset, I am hopeful that it will provide important insights for annotation.
 
 \section{Attested phenomena in the language}
-As mentioned earlier Bengali, like many Indian Languages is a free word order language. There has been an annotation effort for dependency parsing in Bengali in the past as a part of the shared task held at ICON 2009 and 2010. The data was annotated using the computational Paninian Grammar \citep{Bharati}. The paninian grammatical model treats a sentence as a series of modifier- modified elements starting from a primary modified (the root of the tree - generally the main verb) \citep{Bharati-2009}. Also in \citep{Bharati-2009} and \citep{Begum-2008}, they have catalogued in detail all the annotation rules. I am planning to follow the same rules just to be consistent, so that my annotations can be reused by researchers. Although the Paninan theory was formulated by Panini (a grammarian from Ancient India) 2500 years ago for the language Sanskrit, it is basically a dependency grammar \citep{Kiparsky, Shastri}. The framework is inspired by a inflectionally rich language such as Sanskrit and gives a strong framework for annotating for other Indian Languages. Also, although \citep{Bharati-2009} has been written as a guideline for annotating Hindi treebank, similar rules should apply to Bengali, because of the similarity in the languages.
+As mentioned earlier Bengali, like many Indian Languages is a free word order language. There has been an annotation effort for dependency parsing in Bengali in the past as a part of the shared task held at ICON 2009 and 2010. The data was annotated using the computational Paninian Grammar \citep{Bharati}. The paninian grammatical model treats a sentence as a series of modifier- modified elements starting from a primary modified (the root of the tree - generally the main verb) \citep{Bharati-2009}. Also in \citep{Bharati-2009} and \citep{Begum-2008}, they have catalogued in detail all the annotation rules. I am planning to follow the same rules just to be consistent, so that my annotations can be reused by researchers. Although the Paninan theory was formulated by Panini (a grammarian from Ancient India) 2500 years ago for the language Sanskrit, it is basically a dependency grammar \citep{Kiparsky, Shastri}. The framework is inspired by a inflectionally rich language such as Sanskrit and gives a strong framework for annotating for other Indian Languages. Also, although \citep{Bharati-2009} has been written as a guideline for annotating Hindi treebank, similar rules should apply to Bengali, because of the similarity in the languages. 
 
-\section{Annotations of test corpus}
-For the test corpora, I have chosen a dataset of transcribed text of a speech corpus \citep{Shruti}. The text are from news papers and story books. The transcription of the text has been done carefully and is in ITRANS format. I have also found a part of the dataset tagged with the corresponding POS tags. This has really been helpful while annotating for dependencies.
 
-Some of the annotation rule followed:
+\section{Initial Design}
+For the test corpora, I have chosen a dataset of transcribed text of a speech corpus \citep{Shruti}. The text is a short story and are basically conversations between people. Some statistics about the corpus are shown in Table \ref{Corpus_Stat}. Since both Test A and Test B are from the same story, we shouldn't expect much difference in results between the two corpuses. The primary reason I selected this dataset is because the data was POS tagged and that helped me a lot while annotating the data.The text is in ITRANS format (http://en.wikipedia.org/wiki/ITRANS) instead of the native bengali script. ITRANS is an ASCII transliteration scheme for Indic scripts. There are free software packages available which converts between this format and the native bengali script. Many of the other NLP tools which I used also uses data in this format so it was easy to integrate. The training set is also a collection of short stories in bengali. This dataset was also manually POS tagged. 
+
+\begin{table}
+\begin{center}
+  \begin{tabular}{ l | c | c }
+  \hline
+  Corpus & \#sentences & avg. \#tokens / sentence\\
+  \hline
+  Test A & 84 & 11.96\\
+  \hline
+  Test B & 97 & 10.34\\
+  \hline
+  Train & 571 & 9.56\\
+  \hline
+     \end{tabular}
+\end{center}
+\caption{Corpus Statstics}
+\label{Corpus_Stat}
+\end{table}
+
+Next, I am going to present some of my annotation decisions. Since I don't have much experience in linguistics, some of my annotation decisions might not be correct, but for the purpose of this project I have tried to remain consistent all throughout. Here are some of the decisions.
 
 \begin{enumerate}
 \item Multi-word name or proper nouns: In this case, I have made the last word of the name as the root of the chunk and the tree is a linear chain with the first word being the leaf. For example, the proper noun, Mr. Ramesh Singh would become Mr $\leftarrow$ Ramesh $\leftarrow$ Singh.
-\item In Bengali, sometimes adverbs are repeated in order to stress something. In this case we again form a linear chain as above. This time the root is the first occurrence of the adverb.
-\item Relative clauses - TBD
-\item Negative particles: In many cases, negative words normally group with the verb to change the sentence. In Bengali, the negative word usually is after the verb. I have annotated this chunk with the verb as the parent and the negative word as the child.
-\item In many cases, Bengali has a lot of multi verb expression (verbs occurring together and expressing the same thing). In such cases I have also annotated the dependency as a linear chain with the head as the first occurring verb.
-\item More to be documented.
+\item In Bengali, sometimes adverbs are repeated in order to stress something. In this case we again form a linear chain as above. This time the root is the first occurrence of the adverb. For example. \\
+Aami Satyi Satyi Bolchi\\
+(I)       (truly) (truly) (saying)....\\
+In this case the two adverbs jointly form a chunk with the root as the second adverb.
+\item Negative particles: In many cases, negative words normally group with the verb to change the sentence. In Bengali, the negative word usually is after the verb. I have annotated this chunk with the verb as the parent and the negative word as the child. For example. \\
+\begin{center}
+\underline{Karte habe} na.\\
+(do)					(no)
+
+\end{center}
+ In this example, the last word (na) is a negative word and is the child of the verb to the left. 
+\item In many cases, Bengali has a lot of multi verb expression (verbs occurring together to express the same thing). In such cases I have also annotated the dependency as a linear chain with the head as the first occurring verb. 
+\item In Bengali, adjectives generally precede the noun. I have made the adjective as the child of the noun which it is modifying. 
+\item Similar rule as above for adverbs with verbs. Sometimes the adverb and the corresponding verb are separated by few words. But in all cases the adverb is a child of the verb as a root.
+\item Conjunctions, which occur between two noun phrases, I have made it as the head of the two noun phrase chunks. For example, \\
+\begin{center}
+Tamera sa\~ Nge Chele bA meYe ....\\
+(Tom)     (with)    (son)  (or) (daughter)
+\end{center}
+In this case the conjunction 'bA' is the head of 'Chele' and 'meYe'. 
+\item For sentences which start with a conjunction, I have made the conjunction as a direct child of the root of the parse tree.
+\item Bengali is characterized by `postpositions' in contrast to prepositions in English. Postpositions are made as the direct child of the nouns and pronouns it modifies (usually the noun/pronoun it follows)
+\item The root of the sentence is usually the main verb. 
 \end{enumerate}
 
 For the strategy of implementation, I am thinking of doing a  mix of semi-supervised and rule based methods.
@@ -130,7 +167,7 @@ I have been able to annotate around \textbf{2500} tokens in total. Separating 20
 As we can see, the unlabeled accuracies are not that high. This is primarily because of the small size of the training set. Also for the same reason, the basic model is performing better than the standard and the full model. For the next steps, I plan to annotate a lot more data to get meaningful results so that I can think of incorporating other features. Some of the features which I am planning to incorporate are morphological features and also do some unsupervised clustering. But right now, the priority is to annotate more training data.
 
 \subsection{Performance on more training data}
-In the few weeks, I have been able to annotate more data for training. Similar features as above were used (coarse and full POS tags). I did annotation in couple of batches. In the first batch, I annotated a total of around \textbf{4000} tokens and at the second round of effort, I was able to annotate around \textbf{5300} tokens. Table \ref{Second} shows the unlabeled attachment scores. \\
+In the few weeks, I have been able to annotate more data for training. Similar features as above were used (coarse and full POS tags). I did annotation in couple of batches. In the first batch, I annotated a total of around \textbf{4000} tokens and at the second round of effort, I was able to annotate upto \textbf{6000} tokens. Table \ref{Second} shows the unlabeled attachment scores. \\
 
 The unlabeled accuracy scores are respectable and much better than the initial round of evaluation with just 500 tokens. It is clear that the parser was able to learn better with more training examples. Also the difference in performance of the three models has decreased suggesting that the size of the training set is meaningful to train a standard or full model. Infact for 5300 tokens, the full model performs better than the standard model. Also the difference in accuracies for the two training sets is not much suggesting that we have to use new features to have a better parser. I am planning to add some morphological features to see if there is an increase in the accuracy.\\
 
@@ -148,9 +185,10 @@ Morphological features indeed helped!. The accuracy of the parser increased a bi
   Basic Model + 4023 tokens & \textbf{62.32} \\
   Standard Model + 4023 tokens & 60.48 \\
   Full Model + 4023 tokens & 60.91 \\
-  Basic Model + 5304 tokens & \textbf{62.98} \\
-  Standard Model + 5304 tokens & 61.45 \\
-  Full Model + 5304 tokens & 61.89\\
+  \hline
+  Basic Model + 6033 tokens & \textbf{63.63} \\
+  Standard Model + 6033 tokens & 60.48\\
+  Full Model + 6033 tokens & 63.19\\
   \hline
    \end{tabular}
 \end{center}
@@ -166,13 +204,13 @@ Morphological features indeed helped!. The accuracy of the parser increased a bi
   \hline
   Model & Accuracy (\%)\\
   \hline
-  Basic Model + lemma& \textbf{63.74} \\
-  Standard Model + lemma& 61.45 \\
+  Basic Model + lemma& \textbf{64.17} \\
+  Standard Model + lemma& 60.15 \\
   Full Model + lemma& 62.11 \\
   \hline
-  Basic Model + l + n + p& 60.59 \\
-  Standard Model + l + n + p& 61.89 \\
-  Full Model + l + n + p& \textbf{64.17} \\
+  Basic Model + l + n + p& 60.91\\
+  Standard Model + l + n + p& 63.30 \\
+  Full Model + l + n + p& \textbf{64.28} \\
   \hline
    \end{tabular}
 \end{center}
@@ -193,9 +231,10 @@ Table \ref{Four} shows the unlabeled accuracy for test corpus B on both the trai
   Basic Model + 4023 tokens & 58.36 \\
   Standard Model + 4023 tokens & 58.14 \\
   Full Model + 4023 tokens & \textbf{59.25} \\
-  Basic Model + 5304 tokens & 59.58 \\
-  Standard Model + 5304 tokens & \textbf{60.91} \\
-  Full Model + 5304 tokens & \textbf{60.91}\\
+  \hline
+  Basic Model + 6033 tokens & 60.91 \\
+  Standard Model + 6033 tokens & 60.47 \\
+  Full Model + 6033 tokens & \textbf{63.01}\\
   \hline
    \end{tabular}
 \end{center}
@@ -209,13 +248,13 @@ Table \ref{Four} shows the unlabeled accuracy for test corpus B on both the trai
   \hline
   Model & Accuracy (\%)\\
   \hline
-  Basic Model + lemma & 59.58 \\
-  Standard Model + lemma & 61.24 \\
-  Full Model + lemma & \textbf{61.90} \\
+  Basic Model + lemma & 61.68 \\
+  Standard Model + lemma & 62.13 \\
+  Full Model + lemma & \textbf{63.68} \\
   \hline
-  Basic Model + l + n + p& 59.69 \\
+  Basic Model + l + n + p& 60.47 \\
   Standard Model + l + n + p& 60.58 \\
-  Full Model + l + n + p& \textbf{61.02} \\
+  Full Model + l + n + p& \textbf{60.91} \\
   \hline
    \end{tabular}
 \end{center}
