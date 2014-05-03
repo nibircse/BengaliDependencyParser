@@ -1,0 +1,1034 @@
+1	poshAka	_	N	NN	NON|NON	2	[  ]	_	_
+2	parate	_	A	AVB	NON|NON	5	[  ]	_	_
+3	parate	_	A	AVB	NON|NON	2	[  ]	_	_
+4	AbAra	_	A	ADV	NON|NON	5	[  ]	_	_
+5	balalena	_	V	VF	NON|NON	9	[  ]	_	_
+6	tini	_	P	PP	NON|NON	5	[  ]	_	_
+7	samaYa	_	N	NN	NON|NON	9	[  ]	_	_
+8	beshi	_	J	JJ	NON|NON	7	[  ]	_	_
+9	nei	_	V	VNG	NON|NON	0	[  ]	_	_
+10	.	_	S	SEN	NON|NON	10	_	_	_
+
+
+1	Thika	_	J	JJ	NON|NON	2	[  ]	_	_
+2	bAroTAra	_	J	JQC	NON|NON	3	[  ]	_	_
+3	samaYa	_	N	NN	NON|NON	4	[  ]	_	_
+4	kudjoke	_	N	NP	NON|NON	5	[  ]	_	_
+5	balabe	_	V	VF	NON|NON	7	[  ]	_	_
+6	gA.Di	_	N	NN	NON|NON	7	[  ]	_	_
+7	bera	_	V	VN	NON|NON	0	[  ]	_	_
+8	karate	_	V	VF	NON|NON	7	[  ]	_	_
+9	.	_	S	SEN	NON|NON	9	_	_	_
+
+
+1	okeo	_	P	PP	NON|NON	2	[  ]	_	_
+2	AmAdera	_	P	PP	NON|NON	4	[  ]	_	_
+3	sa~Nge	_	P	PPI	NON|NON	2	[  ]	_	_
+4	yete	_	V	VN	NON|NON	0	[  ]	_	_
+5	habe	_	V	VF	NON|NON	4	[  ]	_	_
+6	.	_	S	SEN	NON|NON	6	_	_	_
+
+
+1	sArA	_	J	JJ	NON|NON	2	[  ]	_	_
+2	jAhAjamaYa	_	N	NN	NON|NON	3	[  ]	_	_
+3	ghura	_	A	AVB	NON|NON	5	[  ]	_	_
+4	ghura	_	A	AVB	NON|NON	3	[  ]	_	_
+5	kare	_	V	VN	NON|NON	0	[  ]	_	_
+6	ghure	_	V	VN	NON|NON	5	[  ]	_	_
+7	be.DAto	_	V	VF	NON|NON	6	[  ]	_	_
+8	ibhA~njelina	_	N	NP	NON|NON	7	[  ]	_	_
+9	.	_	S	SEN	NON|NON	9	_	_	_
+
+
+1	kakhano	_	N	NN	NON|NON	3	[  ]	_	_
+2	bA	_	S	SHD	NON|NON	1	[  ]	_	_
+3	u.Nki	_	N	NN	NON|NON	4	[  ]	_	_
+4	dito	_	V	VF	NON|NON	9	[  ]	_	_
+5	i~njina	_	N	NN	NON|NON	4	[  ]	_	_
+6	ghare	_	N	NN	NON|NON	5	[  ]	_	_
+7	kakhano	_	N	NN	NON|NON	9	[  ]	_	_
+8	bA	_	S	SHD	NON|NON	7	[  ]	_	_
+9	chale	_	V	VN	NON|NON	0	[  ]	_	_
+10	Asato	_	V	VF	NON|NON	9	[  ]	_	_
+11	jAhAjera	_	N	NN	NON|NON	9	[  ]	_	_
+12	khole	_	N	NN	NON|NON	11	[  ]	_	_
+13	.	_	S	SEN	NON|NON	13	_	_	_
+
+
+1	phuTaphuTe	_	J	JJ	NON|NON	2	[  ]	_	_
+2	meYeTi	_	N	NN	NON|NON	6	[  ]	_	_
+3	ba.Da	_	J	JJ	NON|NON	6	[  ]	_	_
+4	ba.Da	_	J	JJ	NON|NON	3	[  ]	_	_
+5	nIla	_	J	JJ	NON|NON	4	[  ]	_	_
+6	chokhe	_	N	NN	NON|NON	8	[  ]	_	_
+7	niShpApa	_	J	JJ	NON|NON	8	[  ]	_	_
+8	dRRiShTi	_	N	NN	NON|NON	9	[  ]	_	_
+9	mAthAYa	_	N	NN	NON|NON	12	[  ]	_	_
+10	sonAlI	_	J	JJ	NON|NON	12	[  ]	_	_
+11	bAdAma	_	J	JJ	NON|NON	10	[  ]	_	_
+12	chula	_	N	NN	NON|NON	13	[  ]	_	_
+13	Alo	_	N	NN	NON|NON	14	[  ]	_	_
+14	pa.Dle	_	V	VN	NON|NON	16	[  ]	_	_
+15	jhikamika	_	A	ADV	NON|NON	16	[  ]	_	_
+16	kare	_	V	VN	NON|NON	0	[  ]	_	_
+17	oThe	_	V	VF	NON|NON	16	[  ]	_	_
+18	Thika	_	A	ADV	NON|NON	20	[  ]	_	_
+19	yena	_	S	SHD	NON|NON	18	[  ]	_	_
+20	parITi	_	N	NP	NON|NON	16	[  ]	_	_
+21	.	_	S	SEN	NON|NON	21	_	_	_
+
+
+1	kAChe	_	P	PS	NON|NON	2	[  ]	_	_
+2	ekabAra	_	N	NN	NON|NON	3	[  ]	_	_
+3	nA	_	N	NEG	NON|NON	5	[  ]	_	_
+4	tAkiYe	_	V	VN	NON|NON	3	[  ]	_	_
+5	bA	_	C	CNJ	NON|NON	0	[  ]	_	_
+6	duTo	_	J	JQC	NON|NON	7	[  ]	_	_
+7	kathA	_	N	NN	NON|NON	8	[  ]	_	_
+8	nA	_	N	NEG	NON|NON	5	[  ]	_	_
+9	bale	_	V	VN	NON|NON	8	[  ]	_	_
+10	thAkA	_	V	VN	NON|NON	9	[  ]	_	_
+11	yAYa	_	V	VF	NON|NON	10	[  ]	_	_
+12	nA	_	N	NEG	NON|NON	11	[  ]	_	_
+13	.	_	S	SEN	NON|NON	13	_	_	_
+
+
+1	Tamera	_	N	NP	NON|NON	4	[  ]	_	_
+2	sAthe	_	P	PPI	NON|NON	1	[  ]	_	_
+3	AlApa	_	N	NN	NON|NON	4	[  ]	_	_
+4	hate	_	V	VN	NON|NON	6	[  ]	_	_
+5	deri	_	N	NN	NON|NON	6	[  ]	_	_
+6	halo	_	V	VF	NON|NON	0	[  ]	_	_
+7	nA	_	N	NEG	NON|NON	6	[  ]	_	_
+8	tAra	_	P	PP	NON|NON	6	[  ]	_	_
+9	.	_	S	SEN	NON|NON	9	_	_	_
+
+
+1	kenTAkite	_	N	NP	NON|NON	6	[  ]	_	_
+2	sabAi	_	P	PP	NON|NON	1	[  ]	_	_
+3	tAke	_	P	PP	NON|NON	2	[  ]	_	_
+4	Tama	_	N	NP	NON|NON	6	[  ]	_	_
+5	kAkA	_	N	NN	NON|NON	4	[  ]	_	_
+6	DAkato	_	V	VF	NON|NON	11	[  ]	_	_
+7	shune	_	V	VN	NON|NON	6	[  ]	_	_
+8	seo	_	P	PP	NON|NON	9	[  ]	_	_
+9	Tamke	_	N	NP	NON|NON	10	[  ]	_	_
+10	Tam-kAkA	_	N	NP	NON|NON	11	[  ]	_	_
+11	DAkate	_	V	VN	NON|NON	13	[  ]	_	_
+12	shuru	_	N	NN	NON|NON	13	[  ]	_	_
+13	kare	_	V	VN	NON|NON	0	[  ]	_	_
+14	dila	_	V	VF	NON|NON	13	[  ]	_	_
+15	.	_	S	SEN	NON|NON	15	_	_	_
+
+
+1	ekadina	_	N	NN	NON|NON	2	[  ]	_	_
+2	haYeChe	_	V	VF	NON|NON	7	[  ]	_	_
+3	ki	_	P	PQ	NON|NON	2	[  ]	_	_
+4	jAhAja	_	N	NN	NON|NON	7	[  ]	_	_
+5	eka	_	J	JQC	NON|NON	6	[  ]	_	_
+6	jAYagAYa	_	N	NN	NON|NON	7	[  ]	_	_
+7	legeChe	_	V	VF	NON|NON	0	[  ]	_	_
+8	kATha	_	N	NN	NON|NON	9	[  ]	_	_
+9	tolAra	_	N	NV	NON|NON	7	[  ]	_	_
+10	janye	_	P	PPI	NON|NON	9	[  ]	_	_
+11	.	_	S	SEN	NON|NON	11	_	_	_
+
+
+1	Tamo	_	N	NP	NON|NON	2	[  ]	_	_
+2	kulIdera	_	N	NN	NON|NON	4	[  ]	_	_
+3	sAhAyya	_	N	NN	NON|NON	2	[  ]	_	_
+4	karaChe	_	V	VF	NON|NON	0	[  ]	_	_
+5	kATha	_	N	NN	NON|NON	6	[  ]	_	_
+6	tulate	_	V	VN	NON|NON	4	[  ]	_	_
+7	.	_	S	SEN	NON|NON	7	_	_	_
+
+
+1	ibhA~njelina	_	N	NP	NON|NON	2	[  ]	_	_
+2	bAbAra	_	N	NN	NON|NON	4	[  ]	_	_
+3	sAthe	_	P	PPI	NON|NON	2	[  ]	_	_
+4	reli.nera	_	N	NN	NON|NON	6	[  ]	_	_
+5	kAChe	_	P	PPI	NON|NON	4	[  ]	_	_
+6	dA.N.DiYe	_	V	VN	NON|NON	8	[  ]	_	_
+7	kATha	_	N	NN	NON|NON	8	[  ]	_	_
+8	tolA	_	V	VN	NON|NON	0	[  ]	_	_
+9	dekhaChila	_	V	VF	NON|NON	8	[  ]	_	_
+10	.	_	S	SEN	NON|NON	10	_	_	_
+
+
+1	jAhAja	_	N	NN	NON|NON	5	[  ]	_	_
+2	ghorAra	_	N	NN	NON|NON	1	[  ]	_	_
+3	janya	_	P	PPI	NON|NON	2	[  ]	_	_
+4	bA.Nka	_	N	NN	NON|NON	5	[  ]	_	_
+5	nitei	_	V	VN	NON|NON	9	[  ]	_	_
+6	haThAta	_	A	ADV	NON|NON	5	[  ]	_	_
+7	se	_	P	PP	NON|NON	8	[  ]	_	_
+8	TAla	_	N	NN	NON|NON	9	[  ]	_	_
+9	sAmalAte	_	V	VN	NON|NON	13	[  ]	_	_
+10	nA	_	N	NEG	NON|NON	9	[  ]	_	_
+11	pere	_	V	VN	NON|NON	10	[  ]	_	_
+12	Tupa	_	A	ADV	NON|NON	13	[  ]	_	_
+13	kare	_	V	VN	NON|NON	0	[  ]	_	_
+14	pa.De	_	V	VN	NON|NON	13	[  ]	_	_
+15	gela	_	V	VF	NON|NON	14	[  ]	_	_
+16	jale	_	N	NN	NON|NON	13	[  ]	_	_
+17	.	_	S	SEN	NON|NON	17	_	_	_
+
+
+1	chAridike	_	N	NN	NON|NON	6	[  ]	_	_
+2	hAYa	_	I	INT	NON|NON	5	[  ]	_	_
+3	hAYa	_	I	INT	NON|NON	2	[  ]	_	_
+4	"	_	N	NN	NON|NON	4	_	_	_
+5	raba	_	N	NN	NON|NON	6	[  ]	_	_
+6	uThalo	_	V	VF	NON|NON	0	[  ]	_	_
+7	.	_	S	SEN	NON|NON	7	_	_	_
+
+
+1	seNTakleYAra	_	N	NP	NON|NON	2	[  ]	_	_
+2	jale	_	N	NN	NON|NON	3	[  ]	_	_
+3	jhA.Npa	_	V	VN	NON|NON	6	[  ]	_	_
+4	dite	_	V	VN	NON|NON	3	[  ]	_	_
+5	yAbena	_	V	VF	NON|NON	4	[  ]	_	_
+6	kintu	_	C	CNJ	NON|NON	24	[  ]	_	_
+7	tAra	_	P	PP	NON|NON	10	[  ]	_	_
+8	Agei	_	P	PPI	NON|NON	7	[  ]	_	_
+9	Tam	_	N	NP	NON|NON	10	[  ]	_	_
+10	lAphiYe	_	V	VN	NON|NON	6	[  ]	_	_
+11	pa.DeChe	_	V	VF	NON|NON	10	[  ]	_	_
+12	nadIte	_	N	NN	NON|NON	10	[  ]	_	_
+13	ibhA~njelina	_	N	NP	NON|NON	14	[  ]	_	_
+14	Dube	_	V	VN	NON|NON	17	[  ]	_	_
+15	giYe	_	V	VN	NON|NON	14	[  ]	_	_
+16	AbAra	_	A	ADV	NON|NON	17	[  ]	_	_
+17	bhese	_	V	VN	NON|NON	24	[  ]	_	_
+18	uThatei	_	V	VN	NON|NON	17	[  ]	_	_
+19	ja.DiYe	_	V	VN	NON|NON	18	[  ]	_	_
+20	dhareChe	_	V	VF	NON|NON	19	[  ]	_	_
+21	tAke	_	P	PP	NON|NON	20	[  ]	_	_
+22	eka	_	J	JQC	NON|NON	23	[  ]	_	_
+23	hAte	_	N	NN	NON|NON	19	[  ]	_	_
+24	Ara	_	C	CNJ	NON|NON	0	[  ]	_	_
+25	anya	_	J	JJ	NON|NON	26	[  ]	_	_
+26	hAte	_	N	NN	NON|NON	28	[  ]	_	_
+27	sA.NtAra	_	N	NN	NON|NON	26	[  ]	_	_
+28	keTe	_	V	VN	NON|NON	24	[  ]	_	_
+29	pau.NChe	_	V	VN	NON|NON	28	[  ]	_	_
+30	geChe	_	V	VF	NON|NON	29	[  ]	_	_
+31	jAhAjera	_	N	NN	NON|NON	28	[  ]	_	_
+32	gAYe	_	N	NN	NON|NON	31	[  ]	_	_
+33	.	_	S	SEN	NON|NON	33	_	_	_
+
+
+1	parera	_	N	NN	NON|NON	3	[  ]	_	_
+2	dina	_	N	NN	NON|NON	1	[  ]	_	_
+3	aralinse	_	N	NP	NON|NON	4	[  ]	_	_
+4	pau.NChe	_	V	VN	NON|NON	0	[  ]	_	_
+5	gela	_	V	VF	NON|NON	4	[  ]	_	_
+6	jAhAja	_	N	NN	NON|NON	4	[  ]	_	_
+7	.	_	S	SEN	NON|NON	7	_	_	_
+
+
+1	seNTa	_	N	NP	NON|NON	2	[  ]	_	_
+2	kleYAra	_	N	NP	NON|NON	4	[  ]	_	_
+3	tA.Nra	_	P	PP	NON|NON	4	[  ]	_	_
+4	meYe	_	N	NN	NON|NON	5	[  ]	_	_
+5	eba.n	_	C	CNJ	NON|NON	8	[  ]	_	_
+6	bonake	_	N	NN	NON|NON	5	[  ]	_	_
+7	niYe	_	P	PPI	NON|NON	6	[  ]	_	_
+8	neme	_	V	VN	NON|NON	0	[  ]	_	_
+9	yAbena	_	V	VF	NON|NON	8	[  ]	_	_
+10	.	_	S	SEN	NON|NON	10	_	_	_
+
+
+1	nAmAra	_	N	NN	NON|NON	3	[  ]	_	_
+2	Age	_	P	PPI	NON|NON	1	[  ]	_	_
+3	ibhA~njelina	_	N	NP	NON|NON	4	[  ]	_	_
+4	dhare	_	V	VN	NON|NON	9	[  ]	_	_
+5	basalo	_	V	VF	NON|NON	4	[  ]	_	_
+6	bAbAke	_	N	NN	NON|NON	4	[  ]	_	_
+7	Tam	_	N	NP	NON|NON	8	[  ]	_	_
+8	kAkAke	_	N	NN	NON|NON	9	[  ]	_	_
+9	nite	_	V	VN	NON|NON	0	[  ]	_	_
+10	habe	_	V	VF	NON|NON	9	[  ]	_	_
+11	.	_	S	SEN	NON|NON	11	_	_	_
+
+
+1	Apatti	_	N	NN	NON|NON	2	[  ]	_	_
+2	karalena	_	V	VF	NON|NON	0	[  ]	_	_
+3	nA	_	N	NEG	NON|NON	2	[  ]	_	_
+4	tini	_	P	PP	NON|NON	2	[  ]	_	_
+5	.	_	S	SEN	NON|NON	5	_	_	_
+
+
+1	terasha	_	J	JQC	NON|NON	2	[  ]	_	_
+2	DalAra	_	N	NN	NON|NON	3	[  ]	_	_
+3	diYe	_	V	VN	NON|NON	0	[  ]	_	_
+4	kine	_	V	VN	NON|NON	3	[  ]	_	_
+5	nilena	_	V	VF	NON|NON	4	[  ]	_	_
+6	tini	_	P	PP	NON|NON	7	[  ]	_	_
+7	Tamke	_	N	NP	NON|NON	8	[  ]	_	_
+8	helira	_	N	NP	NON|NON	9	[  ]	_	_
+9	kACha	_	N	NN	NON|NON	3	[  ]	_	_
+10	theke	_	P	PPI	NON|NON	9	[  ]	_	_
+11	.	_	S	SEN	NON|NON	11	_	_	_
+
+
+1	ATa	_	J	JQC	NON|NON	1	_	_	_
+2	jana	_	N	NP	NON|NON	2	_	_	_
+3	bhan	_	N	NP	NON|NON	3	_	_	_
+4	Trampe	_	N	NP	NON|NON	4	_	_	_
+5	yatadina	_	N	NN	NON|NON	5	_	_	_
+6	khushI	_	N	NN	NON|NON	6	_	_	_
+7	elijAke	_	N	NP	NON|NON	7	_	_	_
+8	rAkhate	_	V	VN	NON|NON	8	_	_	_
+9	pAratena	_	V	VF	NON|NON	9	_	_	_
+10	haYato	_	A	ADV	NON|NON	10	_	_	_
+11	tA.Nra	_	P	PP	NON|NON	11	_	_	_
+12	AshraYe	_	N	NN	NON|NON	12	_	_	_
+13	.	_	S	SEN	NON|NON	13	_	_	_
+
+
+1	kintu	_	C	CNJ	NON|NON	5	[  ]	_	_
+2	tini	_	P	PP	NON|NON	5	[  ]	_	_
+3	anAbashyaka	_	J	JJ	NON|NON	4	[  ]	_	_
+4	jhu.Nki	_	N	NN	NON|NON	4	_	_	_
+5	nilena	_	V	VF	NON|NON	0	[  ]	_	_
+6	nA	_	N	NEG	NON|NON	5	[  ]	_	_
+7	.	_	S	SEN	NON|NON	7	_	_	_
+
+
+1	tAChA.DA	_	C	CNJ	NON|NON	2	[  ]	_	_
+2	elijAo	_	N	NP	NON|NON	3	[  ]	_	_
+3	byasta	_	N	NN	NON|NON	4	[  ]	_	_
+4	haYe	_	V	VN	NON|NON	7	[  ]	_	_
+5	pa.DeChila	_	V	VF	NON|NON	4	[  ]	_	_
+6	yemana	_	C	CND	NON|NON	7	[  ]	_	_
+7	kare	_	V	VN	NON|NON	10	[  ]	_	_
+8	hoka	_	V	VF	NON|NON	7	[  ]	_	_
+9	kyAnADAYa	_	N	NP	NON|NON	10	[  ]	_	_
+10	yete	_	V	VN	NON|NON	0	[  ]	_	_
+11	habe	_	V	VF	NON|NON	10	[  ]	_	_
+12	.	_	S	SEN	NON|NON	12	_	_	_
+
+
+1	chupi	_	A	AVB	NON|NON	1	_	_	_
+2	chupi	_	A	AVB	NON|NON	1	[  ]	_	_
+3	tini	_	P	PP	NON|NON	4	[  ]	_	_
+4	elijA	_	N	NP	NON|NON	5	[  ]	_	_
+5	o	_	C	CNJ	NON|NON	8	[  ]	_	_
+6	tAra	_	P	PP	NON|NON	7	[  ]	_	_
+7	Cheleke	_	N	NN	NON|NON	5	[  ]	_	_
+8	pAThiYe	_	V	VN	NON|NON	0	[  ]	_	_
+9	dilena	_	V	VF	NON|NON	8	[  ]	_	_
+10	koYekAradera	_	N	NP	NON|NON	8	[  ]	_	_
+11	eka	_	J	JQC	NON|NON	12	[  ]	_	_
+12	bastite	_	N	NN	NON|NON	10	[  ]	_	_
+13	.	_	S	SEN	NON|NON	13	_	_	_
+
+
+1	elijAke	_	N	NP	NON|NON	2	[  ]	_	_
+2	kyAnADAra	_	N	NP	NON|NON	2	_	_	_
+3	pathe	_	N	NN	NON|NON	2	[  ]	_	_
+4	besha	_	Q	QUA	NON|NON	5	[  ]	_	_
+5	khAnikaTA	_	N	NN	NON|NON	6	[  ]	_	_
+6	egiYe	_	V	VN	NON|NON	11	[  ]	_	_
+7	deoYAo	_	V	VN	NON|NON	6	[  ]	_	_
+8	halo	_	V	VF	NON|NON	7	[  ]	_	_
+9	koYekAradera	_	N	NP	NON|NON	11	[  ]	_	_
+10	AshraYe	_	N	NN	NON|NON	9	[  ]	_	_
+11	thAkA	_	V	VF	NON|NON	0	[  ]	_	_
+12	anekaTA	_	J	JQQ	NON|NON	13	[  ]	_	_
+13	nirApado	_	N	NN	NON|NON	11	[  ]	_	_
+14	baTe	_	S	SHD	NON|NON	13	[  ]	_	_
+15	.	_	S	SEN	NON|NON	15	_	_	_
+
+
+1	koYekArarA	_	N	NP	NON|NON	3	[  ]	_	_
+2	dharmabhIru	_	J	JJ	NON|NON	3	[  ]	_	_
+3	sampradAYa	_	N	NN	NON|NON	0	[  ]	_	_
+4	.	_	S	SEN	NON|NON	4	_	_	_
+
+
+1	dharmera	_	N	NN	NON|NON	3	[  ]	_	_
+2	janya	_	P	PPI	NON|NON	1	[  ]	_	_
+3	tArA	_	P	PP	NON|NON	6	[  ]	_	_
+4	anAYAse	_	A	ADV	NON|NON	6	[  ]	_	_
+5	prANa	_	N	NN	NON|NON	6	[  ]	_	_
+6	dite	_	V	VN	NON|NON	0	[  ]	_	_
+7	pAre	_	V	VF	NON|NON	6	[  ]	_	_
+8	.	_	S	SEN	NON|NON	8	_	_	_
+
+
+1	dAsabyabasAYIrAo	_	N	NN	NON|NON	3	[  ]	_	_
+2	tAdera	_	P	PP	NON|NON	3	[  ]	_	_
+3	ghA.NTAto	_	V	VF	NON|NON	0	[  ]	_	_
+4	nA	_	N	NEG	NON|NON	3	[  ]	_	_
+5	sahaje	_	A	ADV	NON|NON	3	[  ]	_	_
+6	.	_	S	SEN	NON|NON	6	_	_	_
+
+
+1	elijA	_	N	NP	NON|NON	2	[  ]	_	_
+2	ele	_	V	VN	NON|NON	5	[  ]	_	_
+3	sabAi	_	P	PP	NON|NON	5	[  ]	_	_
+4	gola	_	A	ADV	NON|NON	5	[  ]	_	_
+5	hOYe	_	V	VN	NON|NON	9	[  ]	_	_
+6	base	_	V	VN	NON|NON	5	[  ]	_	_
+7	tAra	_	P	PP	NON|NON	8	[  ]	_	_
+8	kAhinI	_	N	NN	NON|NON	9	[  ]	_	_
+9	shunaChe	_	V	VF	NON|NON	12	[  ]	_	_
+10	chokhera	_	N	NN	NON|NON	12	[  ]	_	_
+11	jala	_	N	NN	NON|NON	10	[  ]	_	_
+12	phelaChe	_	V	VF	NON|NON	16	[  ]	_	_
+13	tAra	_	P	PP	NON|NON	12	[  ]	_	_
+14	sAthe	_	P	PPI	NON|NON	13	[  ]	_	_
+15	Apana	_	J	JJ	NON|NON	16	[  ]	_	_
+16	kare	_	V	VN	NON|NON	0	[  ]	_	_
+17	niYeChe	_	V	VF	NON|NON	16	[  ]	_	_
+18	tAke	_	P	PP	NON|NON	16	[  ]	_	_
+19	sahajei	_	A	ADV	NON|NON	16	[  ]	_	_
+20	.	_	S	SEN	NON|NON	20	_	_	_
+
+
+1	Adara	_	N	NN	NON|NON	3	[  ]	_	_
+2	yatnera	_	N	NN	NON|NON	1	[  ]	_	_
+3	abhAba	_	N	NN	NON|NON	4	[  ]	_	_
+4	nei	_	V	VNG	NON|NON	0	[  ]	_	_
+5	.	_	S	SEN	NON|NON	5	_	_	_
+
+
+1	keu	_	P	PP	NON|NON	2	[  ]	_	_
+2	tAra	_	P	PP	NON|NON	5	[  ]	_	_
+3	janye	_	P	PPI	NON|NON	2	[  ]	_	_
+4	jAmA	_	N	NN	NON|NON	5	[  ]	_	_
+5	kare	_	V	VN	NON|NON	0	[  ]	_	_
+6	deYa	_	V	VF	NON|NON	5	[  ]	_	_
+7	keubA	_	P	PP	NON|NON	8	[  ]	_	_
+8	tAra	_	P	PP	NON|NON	9	[  ]	_	_
+9	Chelera	_	N	NN	NON|NON	5	[  ]	_	_
+10	janye	_	P	PPI	NON|NON	9	[  ]	_	_
+11	juto	_	N	NN	NON|NON	9	[  ]	_	_
+12	.	_	S	SEN	NON|NON	12	_	_	_
+
+
+1	elijAo	_	N	NP	NON|NON	3	[  ]	_	_
+2	TukiTAki	_	J	JJ	NON|NON	3	[  ]	_	_
+3	selAipho.N.DAi	_	N	NP	NON|NON	4	[  ]	_	_
+4	niYe	_	V	VN	NON|NON	0	[  ]	_	_
+5	thAke	_	V	VF	NON|NON	4	[  ]	_	_
+6	.	_	S	SEN	NON|NON	6	_	_	_
+
+
+1	kintu	_	C	CNJ	NON|NON	3	[  ]	_	_
+2	tAra	_	P	PP	NON|NON	3	[  ]	_	_
+3	mana	_	N	NN	NON|NON	0	[  ]	_	_
+4	uchATana	_	J	JJ	NON|NON	3	[  ]	_	_
+5	.	_	S	SEN	NON|NON	5	_	_	_
+
+
+1	kyAnADAYa	_	N	NP	NON|NON	2	[  ]	_	_
+2	nA	_	N	NEG	NON|NON	6	[  ]	_	_
+3	yAoYA	_	V	VN	NON|NON	2	[  ]	_	_
+4	paryanta	_	P	PPI	NON|NON	3	[  ]	_	_
+5	sbasti	_	N	NN	NON|NON	6	[  ]	_	_
+6	nei	_	V	VNG	NON|NON	0	[  ]	_	_
+7	.	_	S	SEN	NON|NON	7	_	_	_
+
+
+1	mAjhe	_	A	AVB	NON|NON	5	[  ]	_	_
+2	mAjhei	_	A	AVB	NON|NON	1	[  ]	_	_
+3	se	_	P	PP	NON|NON	4	[  ]	_	_
+4	tA.DA	_	N	NV	NON|NON	5	[  ]	_	_
+5	lAgAYa	_	V	VF	NON|NON	8	[  ]	_	_
+6	puruShadera	_	N	NN	NON|NON	5	[  ]	_	_
+7	tAra	_	P	PP	NON|NON	8	[  ]	_	_
+8	yAoYAra	_	N	NV	NON|NON	13	[  ]	_	_
+9	janya	_	P	PPI	NON|NON	8	[  ]	_	_
+10	yAhoka	_	A	ADV	NON|NON	13	[  ]	_	_
+11	ekaTA	_	J	JQC	NON|NON	12	[  ]	_	_
+12	byabasthA	_	N	NN	NON|NON	13	[  ]	_	_
+13	kare	_	V	VN	NON|NON	0	[  ]	_	_
+14	dite	_	V	VN	NON|NON	13	[  ]	_	_
+15	.	_	S	SEN	NON|NON	15	_	_	_
+
+
+1	emana	_	D	DTA	NON|NON	2	[  ]	_	_
+2	samaYa	_	N	NN	NON|NON	4	[  ]	_	_
+3	khabara	_	N	NN	NON|NON	2	[  ]	_	_
+4	elo	_	V	VF	NON|NON	12	[  ]	_	_
+5	tAra	_	P	PP	NON|NON	6	[  ]	_	_
+6	sbAmI	_	N	NN	NON|NON	7	[  ]	_	_
+7	jarja	_	N	NP	NON|NON	8	[  ]	_	_
+8	AsaChe	_	V	VF	NON|NON	12	[  ]	_	_
+9	sei	_	D	DTA	NON|NON	10	[  ]	_	_
+10	rAtrei	_	N	NN	NON|NON	11	[  ]	_	_
+11	se	_	P	PP	NON|NON	12	[  ]	_	_
+12	pau.NChuchChe	_	V	VF	NON|NON	12	_	_	_
+13	koYekAradera	_	N	NP	NON|NON	12	[  ]	_	_
+14	AstAnAYa	_	N	NN	NON|NON	13	[  ]	_	_
+15	.	_	S	SEN	NON|NON	15	_	_	_
+
+
+1	odike	_	P	PS	NON|NON	2	[  ]	_	_
+2	jarja	_	N	NP	NON|NON	3	[  ]	_	_
+3	pAlAtei	_	V	VN	NON|NON	7	[  ]	_	_
+4	tAra	_	P	PP	NON|NON	5	[  ]	_	_
+5	mAlika	_	N	NN	NON|NON	7	[  ]	_	_
+6	huliYA	_	N	NN	NON|NON	5	[  ]	_	_
+7	Che.DeChe	_	V	VF	NON|NON	12	[  ]	_	_
+8	jarjake	_	N	NP	NON|NON	12	[  ]	_	_
+9	jyAnta	_	J	JJ	NON|NON	10	[  ]	_	_
+10	bA	_	N	NN	NON|NON	8	[  ]	_	_
+11	mRRita	_	J	JJ	NON|NON	10	[  ]	_	_
+12	dhare	_	V	VN	NON|NON	0	[  ]	_	_
+13	dite	_	V	VN	NON|NON	12	[  ]	_	_
+14	pArale	_	V	VN	NON|NON	13	[  ]	_	_
+15	chArasho	_	J	JQC	NON|NON	16	[  ]	_	_
+16	DalAra	_	N	NN	NON|NON	14	[  ]	_	_
+17	puraskAra	_	N	NN	NON|NON	16	[  ]	_	_
+18	.	_	S	SEN	NON|NON	18	_	_	_
+
+
+1	nikhu.Nta	_	J	JJ	NON|NON	2	[  ]	_	_
+2	barNanA	_	N	NN	NON|NON	3	[  ]	_	_
+3	diYeChe	_	V	VF	NON|NON	7	[  ]	_	_
+4	se	_	P	PP	NON|NON	5	[  ]	_	_
+5	jarjera	_	N	NP	NON|NON	3	[  ]	_	_
+6	hyANDabile	_	N	NN	NON|NON	5	[  ]	_	_
+7	Ara	_	C	CNJ	NON|NON	0	[  ]	_	_
+8	se	_	P	PP	NON|NON	9	[  ]	_	_
+9	hyANDabila	_	N	NN	NON|NON	11	[  ]	_	_
+10	bili	_	N	NN	NON|NON	9	[  ]	_	_
+11	kareChe	_	V	VF	NON|NON	7	[  ]	_	_
+12	pratyeka	_	J	JJ	NON|NON	13	[  ]	_	_
+13	ga~nje	_	N	NN	NON|NON	11	[  ]	_	_
+14	ghATe	_	N	NN	NON|NON	13	[  ]	_	_
+15	pratyeka	_	J	JJ	NON|NON	16	[  ]	_	_
+16	sarAikhAnAYa	_	N	NN	NON|NON	11	[  ]	_	_
+17	.	_	S	SEN	NON|NON	17	_	_	_
+
+
+1	jarja	_	N	NP	NON|NON	2	[  ]	_	_
+2	jAne	_	V	VF	NON|NON	0	[  ]	_	_
+3	se	_	D	DTA	NON|NON	4	[  ]	_	_
+4	kathA	_	N	NN	NON|NON	2	[  ]	_	_
+5	.	_	S	SEN	NON|NON	5	_	_	_
+
+
+1	AkhroTera	_	N	NP	NON|NON	4	[  ]	_	_
+2	bAkala	_	N	NN	NON|NON	1	[  ]	_	_
+3	rasa	_	N	NN	NON|NON	2	[  ]	_	_
+4	kare	_	V	VN	NON|NON	6	[  ]	_	_
+5	gAYe	_	N	NN	NON|NON	6	[  ]	_	_
+6	mekhe	_	V	VN	NON|NON	10	[  ]	_	_
+7	tAra	_	P	PP	NON|NON	9	[  ]	_	_
+8	halade	_	J	JJ	NON|NON	9	[  ]	_	_
+9	ra.nke	_	N	NN	NON|NON	10	[  ]	_	_
+10	kare	_	V	VN	NON|NON	13	[  ]	_	_
+11	niYeChe	_	V	VF	NON|NON	10	[  ]	_	_
+12	bAdAmI	_	J	JJ	NON|NON	11	[  ]	_	_
+13	Ara	_	C	CNJ	NON|NON	0	[  ]	_	_
+14	bAdAmI	_	J	JJ	NON|NON	15	[  ]	_	_
+15	chulaguloke	_	N	NN	NON|NON	17	[  ]	_	_
+16	kalapa	_	N	NN	NON|NON	15	[  ]	_	_
+17	mekhe	_	V	VN	NON|NON	13	[  ]	_	_
+18	kare	_	V	VN	NON|NON	17	[  ]	_	_
+19	niYeChe	_	V	VF	NON|NON	18	[  ]	_	_
+20	kAlo	_	J	JJ	NON|NON	17	[  ]	_	_
+21	.	_	S	SEN	NON|NON	21	_	_	_
+
+
+1	ebAra	_	A	ADV	NON|NON	3	[  ]	_	_
+2	tAke	_	P	PP	NON|NON	3	[  ]	_	_
+3	dekhale	_	V	VN	NON|NON	5	[  ]	_	_
+4	sahaje	_	A	ADV	NON|NON	5	[  ]	_	_
+5	chenabAra	_	N	NV	NON|NON	6	[  ]	_	_
+6	upAYa	_	N	NN	NON|NON	7	[  ]	_	_
+7	nei	_	V	VNG	NON|NON	0	[  ]	_	_
+8	.	_	S	SEN	NON|NON	8	_	_	_
+
+
+1	hatAsha	_	J	JJ	NON|NON	2	[  ]	_	_
+2	chokhe	_	N	NN	NON|NON	5	[  ]	_	_
+3	meYera	_	N	NN	NON|NON	2	[  ]	_	_
+4	dike	_	P	PPI	NON|NON	3	[  ]	_	_
+5	khAnikakShaNa	_	N	NN	NON|NON	6	[  ]	_	_
+6	tAkiYe	_	V	VN	NON|NON	10	[  ]	_	_
+7	gIrjAra	_	N	NN	NON|NON	10	[  ]	_	_
+8	pathe	_	N	NN	NON|NON	7	[  ]	_	_
+9	pA	_	N	NN	NON|NON	8	[  ]	_	_
+10	bA.DAna	_	V	VF	NON|NON	0	[  ]	_	_
+11	mArI	_	N	NP	NON|NON	10	[  ]	_	_
+12	.	_	S	SEN	NON|NON	12	_	_	_
+
+
+1	sedini	_	N	NN	NON|NON	7	[  ]	_	_
+2	rAtre	_	N	NN	NON|NON	1	[  ]	_	_
+3	baiThakakhAnAYa	_	N	NN	NON|NON	2	[  ]	_	_
+4	kathAchChale	_	A	ADV	NON|NON	7	[  ]	_	_
+5	ophiliYA	_	N	NP	NON|NON	6	[  ]	_	_
+6	jij~nesa	_	N	NN	NON|NON	7	[  ]	_	_
+7	kare	_	V	VN	NON|NON	16	[  ]	_	_
+8	ibhAke	_	N	NP	NON|NON	7	[  ]	_	_
+9	AchChA	_	I	INT	NON|NON	10	[  ]	_	_
+10	ibhA	_	N	NP	NON|NON	11	[  ]	_	_
+11	AmAdera	_	P	PP	NON|NON	12	[  ]	_	_
+12	bA.DIte	_	N	NP	NON|NON	15	[  ]	_	_
+13	to	_	T	TO	NON|NON	12	[  ]	_	_
+14	kona	_	D	DTA	NON|NON	15	[  ]	_	_
+15	dAsadAsI	_	N	NP	NON|NON	16	[  ]	_	_
+16	nei	_	V	VF	NON|NON	0	[  ]	_	_
+17	.	_	S	SEN	NON|NON	17	_	_	_
+
+
+1	tora	_	N	NN	NON|NON	2	[  ]	_	_
+2	AmAdera	_	P	PP	NON|NON	3	[  ]	_	_
+3	bA.Di	_	N	NN	NON|NON	5	[  ]	_	_
+4	bhAlo	_	N	NN	NON|NON	3	[  ]	_	_
+5	lAge	_	V	VF	NON|NON	0	[  ]	_	_
+6	nA	_	N	NEG	NON|NON	5	[  ]	_	_
+7	ei	_	D	DTA	NON|NON	8	[  ]	_	_
+8	bA.Di	_	N	NN	NON|NON	5	[  ]	_	_
+9	?	_	S	SEN	NON|NON	9	_	_	_
+
+
+1	ei	_	D	DTA	NON|NON	2	[  ]	_	_
+2	bA.Di	_	N	NN	NON|NON	0	[  ]	_	_
+3	.	_	S	SEN	NON|NON	3	_	_	_
+
+
+1	kena	_	P	PQ	NON|NON	0	[  ]	_	_
+2	?	_	S	SEN	NON|NON	2	_	_	_
+
+
+1	bAre	_	I	INT	NON|NON	2	[  ]	_	_
+2	yato	_	D	DTA	NON|NON	3	[  ]	_	_
+3	beshi	_	J	JJ	NON|NON	4	[  ]	_	_
+4	loka	_	N	NN	NON|NON	5	[  ]	_	_
+5	thAke	_	V	VF	NON|NON	10	[  ]	_	_
+6	tato	_	D	DTR	NON|NON	7	[  ]	_	_
+7	beshi	_	J	JJ	NON|NON	8	[  ]	_	_
+8	lokake	_	N	NN	NON|NON	10	[  ]	_	_
+9	bhalobAsA	_	N	NN	NON|NON	8	[  ]	_	_
+10	yAYa	_	V	VF	NON|NON	0	[  ]	_	_
+11	.	_	S	SEN	NON|NON	11	_	_	_
+
+
+1	aikhAne	_	P	PS	NON|NON	2	[  ]	_	_
+2	Dalaph	_	N	NP	NON|NON	3	[  ]	_	_
+3	AChe	_	V	VF	NON|NON	5	[  ]	_	_
+4	myAsI	_	N	NP	NON|NON	5	[  ]	_	_
+5	AChe	_	V	VF	NON|NON	7	[  ]	_	_
+6	Tam	_	N	NP	NON|NON	7	[  ]	_	_
+7	AChe	_	V	VF	NON|NON	9	[  ]	_	_
+8	rojA	_	N	NP	NON|NON	9	[  ]	_	_
+9	AChe	_	V	VF	NON|NON	13	[  ]	_	_
+10	Aro	_	A	ADV	NON|NON	13	[  ]	_	_
+11	kato	_	Q	QUA	NON|NON	12	[  ]	_	_
+12	saba	_	J	JQQ	NON|NON	13	[  ]	_	_
+13	AChe	_	V	VF	NON|NON	0	[  ]	_	_
+14	.	_	S	SEN	NON|NON	14	_	_	_
+
+
+1	sabAike	_	P	PP	NON|NON	3	[  ]	_	_
+2	to	_	T	TO	NON|NON	1	[  ]	_	_
+3	bhAlobAsi	_	N	NN	NON|NON	0	[  ]	_	_
+4	Ami	_	P	PP	NON|NON	3	[  ]	_	_
+5	.	_	S	SEN	NON|NON	5	_	_	_
+
+
+1	tomAdera	_	P	PP	NON|NON	3	[  ]	_	_
+2	okhAne	_	P	PS	NON|NON	1	[  ]	_	_
+3	kajana	_	P	PQ	NON|NON	4	[  ]	_	_
+4	AChe	_	V	VF	NON|NON	0	[  ]	_	_
+5	bhAlobAsAra	_	N	NN	NON|NON	4	[  ]	_	_
+6	?	_	S	SEN	NON|NON	6	_	_	_
+
+
+1	ibhAke	_	N	NP	NON|NON	2	[  ]	_	_
+2	niYe	_	V	VN	NON|NON	5	[  ]	_	_
+3	Anande	_	N	NN	NON|NON	5	[  ]	_	_
+4	dina	_	N	NN	NON|NON	3	[  ]	_	_
+5	kATe	_	V	VF	NON|NON	0	[  ]	_	_
+6	Tamera	_	N	NP	NON|NON	5	[  ]	_	_
+7	.	_	S	SEN	NON|NON	7	_	_	_
+
+
+1	ibhA	_	N	NP	NON|NON	2	[  ]	_	_
+2	tAke	_	P	PP	NON|NON	3	[  ]	_	_
+3	bAibela	_	N	NN	NON|NON	4	[  ]	_	_
+4	pa.De	_	V	VN	NON|NON	0	[  ]	_	_
+5	shonAYa	_	V	VF	NON|NON	4	[  ]	_	_
+6	.	_	S	SEN	NON|NON	6	_	_	_
+
+
+1	Tam	_	N	NP	NON|NON	2	[  ]	_	_
+2	kare	_	V	VF	NON|NON	7	[  ]	_	_
+3	byAkhyA	_	N	NN	NON|NON	2	[  ]	_	_
+4	tAra	_	D	DTA	NON|NON	5	[  ]	_	_
+5	manera	_	N	NN	NON|NON	7	[  ]	_	_
+6	mato	_	P	PPI	NON|NON	5	[  ]	_	_
+7	kare	_	V	VF	NON|NON	11	[  ]	_	_
+8	mAjhe	_	A	AVB	NON|NON	11	[  ]	_	_
+9	mAjhe	_	A	AVB	NON|NON	8	[  ]	_	_
+10	gAna	_	N	NN	NON|NON	11	[  ]	_	_
+11	geYeo	_	V	VN	NON|NON	0	[  ]	_	_
+12	shonAYa	_	V	VF	NON|NON	11	[  ]	_	_
+13	bhagabAnera	_	N	NN	NON|NON	11	[  ]	_	_
+14	gAna	_	N	NN	NON|NON	13	[  ]	_	_
+15	.	_	S	SEN	NON|NON	15	_	_	_
+
+
+1	Tamera	_	N	NP	NON|NON	4	[  ]	_	_
+2	bishbastatAYa	_	N	NN	NON|NON	1	[  ]	_	_
+3	mugdha	_	A	ADV	NON|NON	4	[  ]	_	_
+4	haYe	_	V	VN	NON|NON	15	[  ]	_	_
+5	seNTa	_	N	NP	NON|NON	6	[  ]	_	_
+6	kleYAra	_	N	NP	NON|NON	7	[  ]	_	_
+7	Aste	_	A	AVB	NON|NON	15	[  ]	_	_
+8	Aste	_	A	AVB	NON|NON	7	[  ]	_	_
+9	tAri	_	P	PP	NON|NON	10	[  ]	_	_
+10	hAte	_	N	NN	NON|NON	11	[  ]	_	_
+11	kharacha	_	N	NN	NON|NON	15	[  ]	_	_
+12	patra	_	N	NN	NON|NON	11	[  ]	_	_
+13	hisAba	_	N	NN	NON|NON	12	[  ]	_	_
+14	saba	_	J	JQQ	NON|NON	15	[  ]	_	_
+15	Che.De	_	V	VN	NON|NON	0	[  ]	_	_
+16	dilena	_	V	VF	NON|NON	15	[  ]	_	_
+17	.	_	S	SEN	NON|NON	17	_	_	_
+
+
+1	eDalapha	_	N	NP	NON|NON	1	_	_	_
+2	tAra	_	P	PP	NON|NON	2	_	_	_
+3	katRRitba	_	N	NP	NON|NON	3	_	_	_
+4	chAYa	_	V	VF	NON|NON	4	_	_	_
+5	dekhe	_	V	VN	NON|NON	5	_	_	_
+6	gA.Nigu.Ni	_	A	ADV	NON|NON	6	_	_	_
+7	karaChila	_	V	VF	NON|NON	7	_	_	_
+8	khAnika	_	N	NN	NON|NON	8	_	_	_
+9	kintu	_	C	CNJ	NON|NON	9	_	_	_
+10	pAttA	_	N	NN	NON|NON	10	_	_	_
+11	pAYa	_	V	VF	NON|NON	11	_	_	_
+12	ni	_	N	NEG	NON|NON	12	_	_	_
+13	.	_	S	SEN	NON|NON	13	_	_	_
+
+
+1	seNTa	_	N	NP	NON|NON	2	[  ]	_	_
+2	kleYAra	_	N	NP	NON|NON	4	[  ]	_	_
+3	kono	_	J	JJ	NON|NON	4	[  ]	_	_
+4	kharachera	_	N	NN	NON|NON	8	[  ]	_	_
+5	bilera	_	N	NN	NON|NON	4	[  ]	_	_
+6	dike	_	P	PPI	NON|NON	5	[  ]	_	_
+7	bhAla	_	J	JJ	NON|NON	8	[  ]	_	_
+8	kare	_	V	VN	NON|NON	0	[  ]	_	_
+9	tAkiYeo	_	V	VN	NON|NON	8	[  ]	_	_
+10	dekhatena	_	V	VF	NON|NON	9	[  ]	_	_
+11	nA	_	N	NEG	NON|NON	10	[  ]	_	_
+12	.	_	S	SEN	NON|NON	12	_	_	_
+
+
+1	TAkA-paYasA	_	N	NN	NON|NON	2	[  ]	_	_
+2	yA	_	V	VF	NON|NON	5	[  ]	_	_
+3	Tama	_	N	NP	NON|NON	4	[  ]	_	_
+4	pherata	_	N	NN	NON|NON	5	[  ]	_	_
+5	dita	_	V	VF	NON|NON	6	[  ]	_	_
+6	tA	_	D	DTA	NON|NON	7	[  ]	_	_
+7	guNeo	_	V	VN	NON|NON	0	[  ]	_	_
+8	dekhatena	_	V	VF	NON|NON	7	[  ]	_	_
+9	nA	_	N	NEG	NON|NON	8	[  ]	_	_
+10	kakhano	_	A	ADV	NON|NON	7	[  ]	_	_
+11	.	_	S	SEN	NON|NON	11	_	_	_
+
+
+1	anya	_	J	JQQ	NON|NON	2	[  ]	_	_
+2	keu	_	P	PP	NON|NON	3	[  ]	_	_
+3	hale	_	C	CND	NON|NON	4	[  ]	_	_
+4	haYato	_	A	ADV	NON|NON	6	[  ]	_	_
+5	pralobhane	_	N	NN	NON|NON	6	[  ]	_	_
+6	pa.De	_	V	VN	NON|NON	0	[  ]	_	_
+7	yeta	_	V	VF	NON|NON	6	[  ]	_	_
+8	.	_	S	SEN	NON|NON	8	_	_	_
+
+
+1	kintu	_	C	CNJ	NON|NON	12	[  ]	_	_
+2	Tamera	_	N	NP	NON|NON	5	[  ]	_	_
+3	dhAti	_	N	NN	NON|NON	2	[  ]	_	_
+4	AlAdA	_	J	JJ	NON|NON	3	[  ]	_	_
+5	nijeke	_	P	PP	NON|NON	7	[  ]	_	_
+6	se	_	P	PP	NON|NON	5	[  ]	_	_
+7	ekajana	_	J	JQC	NON|NON	8	[  ]	_	_
+8	khA.NTi	_	J	JJ	NON|NON	9	[  ]	_	_
+9	khrIShTIna	_	N	NN	NON|NON	10	[  ]	_	_
+10	bale	_	V	VN	NON|NON	11	[  ]	_	_
+11	mane	_	N	NN	NON|NON	12	[  ]	_	_
+12	karata	_	V	VF	NON|NON	0	[  ]	_	_
+13	.	_	S	SEN	NON|NON	13	_	_	_
+
+
+1	tAchA.DA	_	C	CNJ	NON|NON	8	[  ]	_	_
+2	manibera	_	N	NN	NON|NON	6	[  ]	_	_
+3	upara	_	P	PPI	NON|NON	2	[  ]	_	_
+4	tAra	_	P	PP	NON|NON	5	[  ]	_	_
+5	eka	_	J	JQC	NON|NON	6	[  ]	_	_
+6	dharaNera	_	N	NN	NON|NON	8	[  ]	_	_
+7	bAtsalya	_	N	NN	NON|NON	6	[  ]	_	_
+8	Chila	_	V	VF	NON|NON	0	[  ]	_	_
+9	.	_	S	SEN	NON|NON	9	_	_	_
+
+
+1	ekadina	_	P	PT	NON|NON	2	[  ]	_	_
+2	rAtre	_	N	NN	NON|NON	4	[  ]	_	_
+3	seNTa	_	N	NP	NON|NON	4	[  ]	_	_
+4	kleYArake	_	N	NP	NON|NON	7	[  ]	_	_
+5	klAba	_	N	NN	NON|NON	4	[  ]	_	_
+6	theke	_	P	PPI	NON|NON	5	[  ]	_	_
+7	mAtAla	_	N	NN	NON|NON	8	[  ]	_	_
+8	haYe	_	V	VN	NON|NON	13	[  ]	_	_
+9	phirate	_	V	VN	NON|NON	8	[  ]	_	_
+10	dekhe	_	V	VF	NON|NON	9	[  ]	_	_
+11	ke.NdekeTe	_	N	NN	NON|NON	13	[  ]	_	_
+12	anartha	_	N	NN	NON|NON	11	[  ]	_	_
+13	kare	_	V	VF	NON|NON	0	[  ]	_	_
+14	se	_	P	PP	NON|NON	13	[  ]	_	_
+15	.	_	S	SEN	NON|NON	15	_	_	_
+
+
+1	seNTa	_	N	NP	NON|NON	2	[  ]	_	_
+2	kleYArake	_	N	NP	NON|NON	3	[  ]	_	_
+3	kathA	_	N	NN	NON|NON	4	[  ]	_	_
+4	dite	_	V	VN	NON|NON	6	[  ]	_	_
+5	haYa	_	V	VF	NON|NON	4	[  ]	_	_
+6	Ara	_	C	CNJ	NON|NON	0	[  ]	_	_
+7	mada	_	N	NN	NON|NON	8	[  ]	_	_
+8	khAbena	_	V	VIS	NON|NON	6	[  ]	_	_
+9	nA	_	N	NEG	NON|NON	8	[  ]	_	_
+10	tini	_	P	PP	NON|NON	8	[  ]	_	_
+11	konadina	_	N	NN	NON|NON	10	[  ]	_	_
+12	.	_	S	SEN	NON|NON	12	_	_	_
+
+
+1	era	_	D	DTA	NON|NON	3	[  ]	_	_
+2	madhye	_	P	PPI	NON|NON	1	[  ]	_	_
+3	ekadina	_	P	PT	NON|NON	4	[  ]	_	_
+4	AbAra	_	A	ADV	NON|NON	7	[  ]	_	_
+5	ekaTA	_	J	JQC	NON|NON	6	[  ]	_	_
+6	aghaTana	_	N	NN	NON|NON	7	[  ]	_	_
+7	ghaTe	_	V	VN	NON|NON	0	[  ]	_	_
+8	gela	_	V	VF	NON|NON	7	[  ]	_	_
+9	.	_	S	SEN	NON|NON	9	_	_	_
+
+
+1	eka	_	J	JQC	NON|NON	2	[  ]	_	_
+2	lambA	_	J	JJ	NON|NON	5	[  ]	_	_
+3	rogA	_	J	JJ	NON|NON	2	[  ]	_	_
+4	AdhAbu.Do	_	J	JJ	NON|NON	3	[  ]	_	_
+5	nigro	_	N	NN	NON|NON	6	[  ]	_	_
+6	eseChe	_	V	VF	NON|NON	8	[  ]	_	_
+7	ruTira	_	N	NN	NON|NON	8	[  ]	_	_
+8	yogAna	_	V	VN	NON|NON	0	[  ]	_	_
+9	dite	_	V	VF	NON|NON	8	[  ]	_	_
+10	rAnnA	_	N	NN	NON|NON	9	[  ]	_	_
+11	ghare	_	N	NN	NON|NON	10	[  ]	_	_
+12	.	_	S	SEN	NON|NON	12	_	_	_
+
+
+1	nAma	_	N	NN	NON|NON	2	[  ]	_	_
+2	tAra	_	P	PP	NON|NON	3	[  ]	_	_
+3	pru	_	N	NP	NON|NON	0	[  ]	_	_
+4	.	_	S	SEN	NON|NON	4	_	_	_
+
+
+1	Tama	_	N	NP	NON|NON	2	[  ]	_	_
+2	dA.N.DiYe	_	V	VN	NON|NON	0	[  ]	_	_
+3	sekhAne	_	P	PS	NON|NON	2	[  ]	_	_
+4	.	_	S	SEN	NON|NON	4	_	_	_
+
+
+1	mis	_	N	NP	NON|NON	2	[  ]	_	_
+2	ophiliYA	_	N	NP	NON|NON	7	[  ]	_	_
+3	beChe	_	A	AVB	NON|NON	7	[  ]	_	_
+4	beChe	_	A	AVB	NON|NON	3	[  ]	_	_
+5	duDajana	_	J	JQC	NON|NON	6	[  ]	_	_
+6	ruTi	_	N	NN	NON|NON	7	[  ]	_	_
+7	rAkhalena	_	V	VF	NON|NON	0	[  ]	_	_
+8	.	_	S	SEN	NON|NON	8	_	_	_
+
+
+1	rA.NdhunI	_	N	NN	NON|NON	2	[  ]	_	_
+2	DinA	_	N	NP	NON|NON	3	[  ]	_	_
+3	jekake	_	N	NP	NON|NON	4	[  ]	_	_
+4	bale	_	V	VF	NON|NON	9	[  ]	_	_
+5	tAka	_	N	NN	NON|NON	7	[  ]	_	_
+6	theke	_	P	PPI	NON|NON	5	[  ]	_	_
+7	TikiTera	_	N	NN	NON|NON	9	[  ]	_	_
+8	bANDila	_	N	NN	NON|NON	7	[  ]	_	_
+9	nAmAte	_	V	VN	NON|NON	0	[  ]	_	_
+10	.	_	S	SEN	NON|NON	10	_	_	_
+
+
+1	mis	_	N	NP	NON|NON	2	[  ]	_	_
+2	ophiliYA	_	N	NP	NON|NON	4	[  ]	_	_
+3	abAk	_	J	JJ	NON|NON	2	[  ]	_	_
+4	hana	_	V	VF	NON|NON	8	[  ]	_	_
+5	TikeTa	_	N	NN	NON|NON	4	[  ]	_	_
+6	diYe	_	P	PPI	NON|NON	5	[  ]	_	_
+7	ki	_	P	PQ	NON|NON	8	[  ]	_	_
+8	habe	_	V	VF	NON|NON	0	[  ]	_	_
+9	?	_	S	SEN	NON|NON	9	_	_	_
+
+
+1	TikeTa	_	N	NP	NON|NON	3	[  ]	_	_
+2	diYei	_	P	PPI	NON|NON	1	[  ]	_	_
+3	AmarA	_	P	PP	NON|NON	4	[  ]	_	_
+4	pA.NuruTira	_	N	NN	NON|NON	6	[  ]	_	_
+5	dAma	_	N	NN	NON|NON	4	[  ]	_	_
+6	di	_	V	VF	NON|NON	0	[  ]	_	_
+7	.	_	S	SEN	NON|NON	7	_	_	_
+
+
+1	kena	_	P	PQ	NON|NON	0	[  ]	_	_
+2	?	_	S	SEN	NON|NON	2	_	_	_
+
+
+1	pru	_	N	NP	NON|NON	2	[  ]	_	_
+2	jhA.NjiYe	_	V	VN	NON|NON	5	[  ]	_	_
+3	oThe	_	V	VF	NON|NON	2	[  ]	_	_
+4	"	_	N	NN	NON|NON	5	[  ]	_	_
+5	bujhalena	_	V	VF	NON|NON	0	[  ]	_	_
+6	nA	_	N	NEG	NON|NON	5	[  ]	_	_
+7	?	_	S	SEN	NON|NON	7	_	_	_
+
+
+1	phire	_	V	VN	NON|NON	7	[  ]	_	_
+2	gele	_	V	VN	NON|NON	1	[  ]	_	_
+3	mAlika	_	N	NN	NON|NON	1	[  ]	_	_
+4	TikeTa	_	N	NN	NON|NON	5	[  ]	_	_
+5	Ara	_	C	CNJ	NON|NON	7	[  ]	_	_
+6	paYasA	_	N	NN	NON|NON	5	[  ]	_	_
+7	guNe	_	V	VN	NON|NON	0	[  ]	_	_
+8	neYa	_	V	VF	NON|NON	7	[  ]	_	_
+9	.	_	S	SEN	NON|NON	9	_	_	_
+
+
+1	yadi	_	C	CND	NON|NON	9	[  ]	_	_
+2	ekaTA	_	J	JQC	NON|NON	3	[  ]	_	_
+3	paYasA	_	N	NN	NON|NON	5	[  ]	_	_
+4	kama	_	N	NN	NON|NON	3	[  ]	_	_
+5	pa.De	_	V	VN	NON|NON	9	[  ]	_	_
+6	mere	_	V	VN	NON|NON	5	[  ]	_	_
+7	AmAke	_	P	PP	NON|NON	6	[  ]	_	_
+8	AdhamarA	_	J	JJ	NON|NON	9	[  ]	_	_
+9	kare	_	V	VN	NON|NON	0	[  ]	_	_
+10	ChA.De	_	V	VF	NON|NON	9	[  ]	_	_
+11	.	_	S	SEN	NON|NON	11	_	_	_
+
+
+1	nA	_	N	NEG	NON|NON	0	[  ]	_	_
+2	kare	_	V	VN	NON|NON	1	[  ]	_	_
+3	karabe	_	V	VF	NON|NON	2	[  ]	_	_
+4	ki	_	P	PQ	NON|NON	3	[  ]	_	_
+5	?	_	S	SEN	NON|NON	5	_	_	_
+
+
+1	jeka	_	N	NP	NON|NON	2	[  ]	_	_
+2	bale	_	V	VF	NON|NON	6	[  ]	_	_
+3	tora	_	P	PP	NON|NON	4	[  ]	_	_
+4	hAte	_	N	NN	NON|NON	6	[  ]	_	_
+5	paYasA	_	N	NN	NON|NON	4	[  ]	_	_
+6	gelei	_	V	VN	NON|NON	10	[  ]	_	_
+7	to	_	T	TO	NON|NON	6	[  ]	_	_
+8	tui	_	P	PP	NON|NON	9	[  ]	_	_
+9	mada	_	N	NN	NON|NON	10	[  ]	_	_
+10	kheYe	_	V	VN	NON|NON	0	[  ]	_	_
+11	o.DAbi	_	V	VF	NON|NON	10	[  ]	_	_
+12	.	_	S	SEN	NON|NON	12	_	_	_
+
+
+1	khAboi	_	V	VF	NON|NON	4	[  ]	_	_
+2	to	_	T	TO	NON|NON	1	[  ]	_	_
+3	ekashabAra	_	P	PC	NON|NON	4	[  ]	_	_
+4	khAbo	_	V	VF	NON|NON	0	[  ]	_	_
+5	.	_	S	SEN	NON|NON	5	_	_	_
+
+
+1	naile	_	C	CNJ	NON|NON	5	[  ]	_	_
+2	saba	_	D	DTA	NON|NON	3	[  ]	_	_
+3	bhulabo	_	V	VF	NON|NON	5	[  ]	_	_
+4	ki	_	P	PQ	NON|NON	5	[  ]	_	_
+5	kare	_	V	VF	NON|NON	0	[  ]	_	_
+6	.	_	S	SEN	NON|NON	6	_	_	_
+
+
+1	balate	_	A	AVB	NON|NON	3	[  ]	_	_
+2	batale	_	A	AVB	NON|NON	1	[  ]	_	_
+3	uThe	_	V	VN	NON|NON	0	[  ]	_	_
+4	dA.N.DAYa	_	V	VF	NON|NON	3	[  ]	_	_
+5	pru	_	N	NP	NON|NON	3	[  ]	_	_
+6	.	_	S	SEN	NON|NON	6	_	_	_
+
+
+1	eDalapha	_	N	NP	NON|NON	2	[  ]	_	_
+2	bale	_	V	VF	NON|NON	5	[  ]	_	_
+3	Ami	_	P	PP	NON|NON	4	[  ]	_	_
+4	hale	_	C	CND	NON|NON	5	[  ]	_	_
+5	chAbake	_	V	VN	NON|NON	9	[  ]	_	_
+6	ora	_	P	PP	NON|NON	7	[  ]	_	_
+7	piThera	_	N	NN	NON|NON	9	[  ]	_	_
+8	ChAla	_	N	NN	NON|NON	7	[  ]	_	_
+9	tule	_	V	VN	NON|NON	0	[  ]	_	_
+10	ditAma	_	V	VF	NON|NON	9	[  ]	_	_
+11	.	_	S	SEN	NON|NON	11	_	_	_
+
+
+1	DinA	_	N	NP	NON|NON	2	[  ]	_	_
+2	dhamake	_	V	VN	NON|NON	8	[  ]	_	_
+3	oThe	_	V	VF	NON|NON	2	[  ]	_	_
+4	tora	_	P	PP	NON|NON	5	[  ]	_	_
+5	Ara	_	A	ADV	NON|NON	6	[  ]	_	_
+6	phyAcha	_	A	AVB	NON|NON	8	[  ]	_	_
+7	phyAcha	_	A	AVB	NON|NON	6	[  ]	_	_
+8	karate	_	V	VN	NON|NON	0	[  ]	_	_
+9	habe	_	V	VF	NON|NON	8	[  ]	_	_
+10	nA	_	N	NEG	NON|NON	9	[  ]	_	_
+11	.	_	S	SEN	NON|NON	11	_	_	_
+
+
+1	ChAla	_	N	NN	NON|NON	2	[  ]	_	_
+2	tolAra	_	N	NV	NON|NON	3	[  ]	_	_
+3	yena	_	A	ADV	NON|NON	6	[  ]	_	_
+4	kato	_	Q	QUA	NON|NON	5	[  ]	_	_
+5	bAki	_	N	NN	NON|NON	6	[  ]	_	_
+6	AChe	_	V	VF	NON|NON	0	[  ]	_	_
+7	!	_	S	SEN	NON|NON	7	_	_	_
+
+
+1	jAmA	_	N	NN	NON|NON	2	[  ]	_	_
+2	tule	_	V	VN	NON|NON	5	[  ]	_	_
+3	ora	_	P	PP	NON|NON	4	[  ]	_	_
+4	piThaTA	_	N	NN	NON|NON	5	[  ]	_	_
+5	dekheChisa	_	V	VF	NON|NON	0	[  ]	_	_
+6	konadina	_	N	NN	NON|NON	5	[  ]	_	_
+7	?	_	S	SEN	NON|NON	7	_	_	_
+
+
+1	pru	_	N	NP	NON|NON	3	[  ]	_	_
+2	tAra	_	P	PP	NON|NON	1	[  ]	_	_
+3	jhu.Di	_	N	NN	NON|NON	4	[  ]	_	_
+4	niYe	_	V	VN	NON|NON	7	[  ]	_	_
+5	Aste	_	A	AVB	NON|NON	7	[  ]	_	_
+6	Aste	_	A	AVB	NON|NON	5	[  ]	_	_
+7	beriYe	_	V	VN	NON|NON	0	[  ]	_	_
+8	gela	_	V	VF	NON|NON	7	[  ]	_	_
+9	.	_	S	SEN	NON|NON	9	_	_	_
+
+
+1	piThaTA	_	N	NN	NON|NON	2	[  ]	_	_
+2	be.Nke	_	V	VN	NON|NON	0	[  ]	_	_
+3	geChe	_	V	VF	NON|NON	2	[  ]	_	_
+4	ora	_	P	PP	NON|NON	2	[  ]	_	_
+5	.	_	S	SEN	NON|NON	5	_	_	_
+
+
+1	mAjhe	_	A	AVB	NON|NON	3	[  ]	_	_
+2	mAjhe	_	A	AVB	NON|NON	1	[  ]	_	_
+3	go~NAchChe	_	V	VF	NON|NON	0	[  ]	_	_
+4	.	_	S	SEN	NON|NON	4	_	_	_
+
